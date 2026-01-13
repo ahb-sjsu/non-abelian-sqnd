@@ -13,9 +13,12 @@ non-abelian-sqnd/
 └── personal/         # Personal documents (CV, presentations)
 ```
 
-## Related Repository
+## Related Repositories
 
-**[ahb-sjsu/erisml-lib](https://github.com/ahb-sjsu/erisml-lib)** - The ErisML/DEME production library implementing these theoretical frameworks.
+| Repository | Description |
+|------------|-------------|
+| [ahb-sjsu/erisml-lib](https://github.com/ahb-sjsu/erisml-lib) | ErisML/DEME production library implementing these theoretical frameworks |
+| [ahb-sjsu/sqnd-probe](https://github.com/ahb-sjsu/sqnd-probe) | Dear Ethicist - advice column game for measuring moral reasoning structure |
 
 ### DEME V3 Implementation Status (as of January 2026)
 

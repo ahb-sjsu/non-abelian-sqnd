@@ -1,0 +1,153 @@
+2026-01-10 02:19:40,151 - INFO - [SEFARIA] Probing API structure...
+2026-01-10 02:19:40,199 - INFO -   Discovered 50 total texts
+2026-01-10 02:19:40,970 - INFO -   Learned schema: text=['available_versions', 'heRef'], ref=['ref']
+2026-01-10 02:19:42,686 - INFO -   Shevuot: 1 passages
+2026-01-10 02:19:43,958 - INFO -   Tosafot HaRosh on Kiddushin: 1 passages
+2026-01-10 02:19:43,974 - INFO -   Mishnah Bava Batra: 1 passages
+2026-01-10 02:19:45,275 - INFO -   Hon Ashir on Mishnah Kiddushin: 1 passages
+2026-01-10 02:19:46,796 - INFO -   Chidushei Chatam Sofer on Sanhedrin: 1 passages
+2026-01-10 02:19:47,612 - INFO -   Tosefta Bava Batra (Lieberman): 1 passages
+2026-01-10 02:19:47,627 - INFO -   Bartenura on Mishnah Gittin: 1 passages
+2026-01-10 02:19:49,065 - INFO -   Chidushei Chatam Sofer on Bava Kamma: 1 passages
+2026-01-10 02:19:50,569 - INFO -   Ben Yehoyada on Sanhedrin: 1 passages
+2026-01-10 02:19:52,074 - INFO -   Ben Yehoyada on Shevuot: 1 passages
+2026-01-10 02:19:53,360 - INFO -   Jerusalem Talmud Sanhedrin: 1 passages
+2026-01-10 02:19:54,643 - INFO -   Chidushei Chatam Sofer on Gittin: 1 passages
+2026-01-10 02:19:55,798 - INFO -   Melekhet Shelomoh on Mishnah Bava Metzia: 1 passages
+2026-01-10 02:19:57,168 - INFO -   Arukh LaNer on Sanhedrin: 1 passages
+2026-01-10 02:19:58,221 - INFO -   Jerusalem Talmud Bava Metzia: 1 passages
+2026-01-10 02:19:59,308 - INFO -   Boaz on Mishnah Ketubot: 1 passages
+2026-01-10 02:19:59,308 - INFO -   Boaz on Mishnah Kiddushin: 1 passages
+2026-01-10 02:19:59,975 - INFO -   Rashash on Mishnah Bava Kamma: 1 passages
+2026-01-10 02:20:00,976 - INFO -   English Explanation of Mishnah Shevuot: 1 passages
+2026-01-10 02:20:01,008 - INFO -   Rambam on Mishnah Kiddushin: 1 passages
+2026-01-10 02:20:02,832 - INFO -   Bava Batra: 1 passages
+2026-01-10 02:20:03,668 - INFO -   Melekhet Shelomoh on Mishnah Bava Batra: 1 passages
+2026-01-10 02:20:05,051 - INFO -   Tosafot Rid on Bava Metzia: 1 passages
+2026-01-10 02:20:06,137 - INFO -   Jerusalem Talmud Bava Kamma: 1 passages
+2026-01-10 02:20:07,055 - INFO -   Hon Ashir on Mishnah Bava Metzia: 1 passages
+2026-01-10 02:20:07,072 - INFO -   Yachin on Mishnah Shevuot: 1 passages
+2026-01-10 02:20:08,593 - INFO -   Be'er Sheva on Sanhedrin: 1 passages
+2026-01-10 02:20:10,127 - INFO -   Chiddushei HaRa'ah on Ketubot: 1 passages
+2026-01-10 02:20:11,660 - INFO -   Tosafot Rid on Bava Batra: 1 passages
+2026-01-10 02:20:12,647 - INFO -   Marit HaAyin on Pirkei Avot: 1 passages
+2026-01-10 02:20:14,164 - INFO -   Haflaah on Ketubot: 1 passages
+2026-01-10 02:20:14,195 - INFO -   Rambam on Mishnah Ketubot: 1 passages
+2026-01-10 02:20:14,200 - INFO -   Mishnah Gittin: 1 passages
+2026-01-10 02:20:14,200 - INFO -   Mishnah Sanhedrin: 1 passages
+2026-01-10 02:20:14,217 - INFO -   Rambam on Mishnah Bava Kamma: 1 passages
+2026-01-10 02:20:15,250 - INFO -   Tosefta Kiddushin (Lieberman): 1 passages
+2026-01-10 02:20:16,569 - INFO -   Mishnat Eretz Yisrael on Mishnah Kiddushin: 1 passages
+2026-01-10 02:20:16,703 - INFO -   Boaz on Mishnah Bava Kamma: 1 passages
+2026-01-10 02:20:17,952 - INFO -   Tosafot Rabbi Akiva Eiger on Mishnah Ketubot: 1 passages
+2026-01-10 02:20:19,437 - INFO -   Boaz on Mishnah Shevuot: 1 passages
+2026-01-10 02:20:20,908 - INFO -   Ben Yehoyada on Gittin: 1 passages
+2026-01-10 02:20:22,428 - INFO -   Mitzpeh Etan on Avot D'Rabbi Natan: 1 passages
+2026-01-10 02:20:23,313 - INFO -   Lechem Shamayim on Mishnah Nedarim: 1 passages
+2026-01-10 02:20:24,829 - INFO -   Ri Migash on Shevuot: 1 passages
+2026-01-10 02:20:25,867 - INFO -   Jerusalem Talmud Bava Batra: 1 passages
+2026-01-10 02:20:26,921 - INFO -   Musar Avikha: 1 passages
+2026-01-10 02:20:27,856 - INFO -   Tosefta Shevuot: 1 passages
+2026-01-10 02:20:28,941 - INFO -   Rashash on Mishnah Sanhedrin: 1 passages
+2026-01-10 02:20:30,547 - INFO -   Tosafot Rid on Kiddushin: 1 passages
+2026-01-10 02:20:31,577 - INFO -   German Commentary on Mishnah Nedarim: 1 passages
+2026-01-10 02:20:31,577 - INFO -   [DONE] Sefaria: 50 total
+2026-01-10 02:20:31,594 - INFO - [QURAN] Probing API structure...
+2026-01-10 02:20:31,617 - INFO -   Discovered 114 surahs
+2026-01-10 02:20:31,629 - INFO -   Using editions: quran-uthmani, en.sahih
+2026-01-10 02:20:31,643 - INFO -   Learned schema: text=[], ref=[]
+2026-01-10 02:20:31,910 - INFO -   [DONE] Quran: 671 passages
+2026-01-10 02:20:31,910 - INFO - [HADITH] Discovering collections...
+2026-01-10 02:20:31,910 - INFO -   Found 0 English collections
+2026-01-10 02:20:31,926 - INFO -   [DONE] Hadith: 0 total
+2026-01-10 02:20:31,929 - INFO - [BIBLE] Fetching passages...
+2026-01-10 02:20:33,114 - INFO -   Learned schema: text=['verses', 'text'], ref=['reference']
+2026-01-10 02:20:43,383 - INFO -   Genesis: 14 chapters
+2026-01-10 02:20:47,373 - INFO -   Exodus: 0 chapters
+2026-01-10 02:20:51,614 - INFO -   Leviticus: 0 chapters
+2026-01-10 02:20:55,234 - INFO -   Deuteronomy: 0 chapters
+2026-01-10 02:20:59,340 - INFO -   Psalms: 0 chapters
+2026-01-10 02:21:11,630 - INFO -   Proverbs: 15 chapters
+2026-01-10 02:21:15,168 - INFO -   Ecclesiastes: 0 chapters
+2026-01-10 02:21:18,960 - INFO -   Isaiah: 0 chapters
+2026-01-10 02:21:22,478 - INFO -   Micah: 0 chapters
+2026-01-10 02:21:26,206 - INFO -   Amos: 0 chapters
+2026-01-10 02:21:29,686 - INFO -   Matthew: 0 chapters
+2026-01-10 02:21:41,771 - INFO -   Mark: 15 chapters
+2026-01-10 02:21:45,819 - INFO -   Luke: 0 chapters
+2026-01-10 02:21:49,282 - INFO -   John: 0 chapters
+2026-01-10 02:23:51,271 - INFO - [SEFARIA] Probing API structure...
+2026-01-10 02:23:51,321 - INFO -   Discovered 50 total texts
+2026-01-10 02:23:52,172 - INFO -   Learned schema: text=['available_versions', 'heRef'], ref=['ref']
+2026-01-10 02:23:52,184 - INFO -   Yachin on Mishnah Bava Batra: 1 passages
+2026-01-10 02:23:52,625 - INFO -   Tosafot Rid on Bava Metzia: 1 passages
+2026-01-10 02:23:53,109 - INFO -   Melekhet Shelomoh on Mishnah Sanhedrin: 1 passages
+2026-01-10 02:23:54,626 - INFO -   Beur Reuven on Bava Kamma: 1 passages
+2026-01-10 02:23:56,149 - INFO -   Chidushei Chatam Sofer on Shevuot: 1 passages
+2026-01-10 02:23:57,242 - INFO -   Melekhet Shelomoh on Mishnah Bava Kamma: 1 passages
+2026-01-10 02:23:58,361 - INFO -   Tosafot Yom Tov on Mishnah Bava Metzia: 1 passages
+2026-01-10 02:23:59,145 - INFO -   Lechem Shamayim on Mishnah Gittin: 1 passages
+2026-01-10 02:24:00,890 - INFO -   Penei Yehoshua on Ketubot: 1 passages
+2026-01-10 02:24:01,160 - INFO -   Be'er Sheva on Sanhedrin: 1 passages
+2026-01-10 02:24:02,189 - INFO -   Lechem Shamayim on Mishnah Sanhedrin: 1 passages
+2026-01-10 02:24:02,193 - INFO -   Mishnah Ketubot: 1 passages
+2026-01-10 02:24:02,803 - INFO -   Tosafot Rid on Bava Batra: 1 passages
+2026-01-10 02:24:03,753 - INFO -   Boaz on Pirkei Avot: 1 passages
+2026-01-10 02:24:04,943 - INFO -   German Commentary on Mishnah Ketubot: 1 passages
+2026-01-10 02:24:04,960 - INFO -   Marit HaAyin on Pirkei Avot: 1 passages
+2026-01-10 02:24:05,709 - INFO -   Hon Ashir on Mishnah Gittin: 1 passages
+2026-01-10 02:24:07,225 - INFO -   Tosafot Rid on Bava Kamma: 1 passages
+2026-01-10 02:24:07,229 - INFO -   Bartenura on Mishnah Gittin: 1 passages
+2026-01-10 02:24:07,718 - INFO -   Boaz on Mishnah Shevuot: 1 passages
+2026-01-10 02:24:08,787 - INFO -   Avot DeRabbi Natan: 1 passages
+2026-01-10 02:24:09,786 - INFO -   Jerusalem Talmud Ketubot: 1 passages
+2026-01-10 02:24:10,221 - INFO -   Boaz on Mishnah Ketubot: 1 passages
+2026-01-10 02:24:11,232 - INFO -   Tosafot Rabbi Akiva Eiger on Pirkei Avot: 1 passages
+2026-01-10 02:24:11,244 - INFO -   Rambam on Mishnah Shevuot: 1 passages
+2026-01-10 02:24:12,309 - INFO -   Rishon Letzion on Avot D'Rabbi Natan: 1 passages
+2026-01-10 02:24:13,324 - INFO -   Tosefta Bava Metzia (Lieberman): 1 passages
+2026-01-10 02:24:14,789 - INFO -   Penei Yehoshua on Bava Metzia: 1 passages
+2026-01-10 02:24:14,801 - INFO -   Rabbeinu Yonah on Pirkei Avot: 1 passages
+2026-01-10 02:24:15,906 - INFO -   Lechem Shamayim on Mishnah Bava Metzia: 1 passages
+2026-01-10 02:24:16,837 - INFO -   Lechem Shamayim on Mishnah Kiddushin: 1 passages
+2026-01-10 02:24:17,886 - INFO -   Hon Ashir on Mishnah Bava Kamma: 1 passages
+2026-01-10 02:24:18,841 - INFO -   English Explanation of Mishnah Ketubot: 1 passages
+2026-01-10 02:24:19,307 - INFO -   Haflaah on Ketubot: 1 passages
+2026-01-10 02:24:20,385 - INFO -   Tosafot Yom Tov on Mishnah Bava Kamma: 1 passages
+2026-01-10 02:24:21,862 - INFO -   Tosafot Rid on Ketubot: 1 passages
+2026-01-10 02:24:23,349 - INFO -   Daf Shevui to Kiddushin: 1 passages
+2026-01-10 02:24:24,901 - INFO -   Penei Yehoshua on Kiddushin: 1 passages
+2026-01-10 02:24:24,902 - INFO -   Yachin on Mishnah Sanhedrin: 1 passages
+2026-01-10 02:24:25,904 - INFO -   Rashash on Pirkei Avot: 1 passages
+2026-01-10 02:24:27,416 - INFO -   Chiddushei HaRim on Bava Batra: 1 passages
+2026-01-10 02:24:27,435 - INFO -   Bartenura on Mishnah Sanhedrin: 1 passages
+2026-01-10 02:24:28,425 - INFO -   English Explanation of Mishnah Kiddushin: 1 passages
+2026-01-10 02:24:29,442 - INFO -   Tumat Yesharim on Avot D'Rabbi Natan: 1 passages
+2026-01-10 02:24:30,577 - INFO -   Tosefta Ketubot (Lieberman): 1 passages
+2026-01-10 02:24:31,479 - INFO -   Sha'arei Torat Bavel on Pirkei Avot: 1 passages
+2026-01-10 02:24:32,503 - INFO -   Tosefta Bava Metzia: 1 passages
+2026-01-10 02:24:32,516 - INFO -   Bartenura on Mishnah Nedarim: 1 passages
+2026-01-10 02:24:32,518 - INFO -   Rambam on Mishnah Nedarim: 1 passages
+2026-01-10 02:24:32,536 - INFO -   Hon Ashir on Mishnah Kiddushin: 1 passages
+2026-01-10 02:24:32,536 - INFO -   [DONE] Sefaria: 50 total
+2026-01-10 02:24:32,553 - INFO - [QURAN] Probing API structure...
+2026-01-10 02:24:32,553 - INFO -   Discovered 114 surahs
+2026-01-10 02:24:32,568 - INFO -   Using editions: quran-uthmani, en.sahih
+2026-01-10 02:24:32,584 - INFO -   Learned schema: text=[], ref=[]
+2026-01-10 02:24:32,795 - INFO -   [DONE] Quran: 671 passages
+2026-01-10 02:24:32,795 - INFO - [HADITH] Discovering collections...
+2026-01-10 02:24:32,795 - INFO -   Found 0 English collections
+2026-01-10 02:24:32,795 - INFO -   [DONE] Hadith: 0 total
+2026-01-10 02:24:32,811 - INFO - [BIBLE] Fetching passages...
+2026-01-10 02:24:32,836 - INFO -   Learned schema: text=['verses', 'text'], ref=['reference']
+2026-01-10 02:24:40,715 - INFO -   Genesis: 29 chapters
+2026-01-10 02:24:44,336 - INFO -   Exodus: 0 chapters
+2026-01-10 02:24:47,834 - INFO -   Leviticus: 0 chapters
+2026-01-10 02:24:51,347 - INFO -   Deuteronomy: 0 chapters
+2026-01-10 02:24:56,610 - INFO -   Psalms: 0 chapters
+2026-01-10 02:25:07,518 - INFO -   Proverbs: 29 chapters
+2026-01-10 02:25:11,719 - INFO -   Ecclesiastes: 1 chapters
+2026-01-10 02:25:15,210 - INFO -   Isaiah: 0 chapters
+2026-01-10 02:25:18,934 - INFO -   Micah: 0 chapters
+2026-01-10 02:25:22,458 - INFO -   Amos: 0 chapters
+2026-01-10 02:25:25,951 - INFO -   Matthew: 0 chapters

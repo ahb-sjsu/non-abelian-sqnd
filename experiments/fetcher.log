@@ -1,0 +1,326 @@
+2026-01-10 01:42:21,145 - __main__ - INFO -   Category: ethics
+2026-01-10 01:42:21,145 - __main__ - INFO -     Fetching: Pirkei_Avot
+2026-01-10 01:42:21,803 - __main__ - ERROR -     Error fetching Pirkei_Avot: 'list' object has no attribute 'get'
+2026-01-10 01:42:21,803 - __main__ - INFO -     Fetching: Derech_Eretz_Rabbah
+2026-01-10 01:42:23,307 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.1 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.1
+2026-01-10 01:42:24,323 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.2 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.2
+2026-01-10 01:42:25,352 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.3 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.3
+2026-01-10 01:42:26,341 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.4 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.4
+2026-01-10 01:42:27,336 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.5 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.5
+2026-01-10 01:42:28,307 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.6 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.6
+2026-01-10 01:42:29,358 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.7 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.7
+2026-01-10 01:42:30,631 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.8 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.8
+2026-01-10 01:42:31,334 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.9 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.9
+2026-01-10 01:42:32,539 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.10 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.10
+2026-01-10 01:42:32,539 - __main__ - INFO -     Fetching: Derech_Eretz_Zuta
+2026-01-10 01:53:42,927 - __main__ - INFO -   Category: ethics
+2026-01-10 01:53:42,928 - __main__ - INFO -     Fetching: Pirkei_Avot
+2026-01-10 01:53:42,935 - __main__ - ERROR -     Error fetching Pirkei_Avot: 'list' object has no attribute 'get'
+2026-01-10 01:53:42,936 - __main__ - INFO -     Fetching: Derech_Eretz_Rabbah
+2026-01-10 01:53:44,654 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.1 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.1
+2026-01-10 01:53:44,795 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.2 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.2
+2026-01-10 01:53:45,872 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.3 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.3
+2026-01-10 01:53:47,076 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.4 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.4
+2026-01-10 01:53:47,810 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.5 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.5
+2026-01-10 01:53:48,812 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.6 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.6
+2026-01-10 01:53:49,798 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.7 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.7
+2026-01-10 01:53:50,833 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.8 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.8
+2026-01-10 01:53:51,882 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.9 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.9
+2026-01-10 01:53:52,860 - __main__ - WARNING - Request failed: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.10 - 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.10
+2026-01-10 01:53:52,860 - __main__ - INFO -     Fetching: Derech_Eretz_Zuta
+2026-01-10 01:53:53,953 - __main__ - ERROR -     Error fetching Derech_Eretz_Zuta: 'list' object has no attribute 'get'
+2026-01-10 01:53:53,953 - __main__ - INFO -   Category: civil_law
+2026-01-10 01:53:53,969 - __main__ - INFO -     Fetching: Mishnah_Bava_Kamma
+2026-01-10 01:53:54,857 - __main__ - ERROR -     Error fetching Mishnah_Bava_Kamma: 'list' object has no attribute 'get'
+2026-01-10 01:53:54,857 - __main__ - INFO -     Fetching: Mishnah_Bava_Metzia
+2026-01-10 01:53:55,876 - __main__ - ERROR -     Error fetching Mishnah_Bava_Metzia: 'list' object has no attribute 'get'
+2026-01-10 01:53:55,876 - __main__ - INFO -     Fetching: Mishnah_Bava_Batra
+2026-01-10 01:53:57,365 - __main__ - ERROR -     Error fetching Mishnah_Bava_Batra: 'list' object has no attribute 'get'
+2026-01-10 01:53:57,365 - __main__ - INFO -     Fetching: Mishnah_Sanhedrin
+2026-01-10 01:53:57,876 - __main__ - ERROR -     Error fetching Mishnah_Sanhedrin: 'list' object has no attribute 'get'
+2026-01-10 01:53:57,876 - __main__ - INFO -   Category: vows_oaths
+2026-01-10 01:53:57,892 - __main__ - INFO -     Fetching: Mishnah_Nedarim
+2026-01-10 01:53:59,143 - __main__ - ERROR -     Error fetching Mishnah_Nedarim: 'list' object has no attribute 'get'
+2026-01-10 01:53:59,143 - __main__ - INFO -     Fetching: Mishnah_Shevuot
+2026-01-10 01:53:59,870 - __main__ - ERROR -     Error fetching Mishnah_Shevuot: 'list' object has no attribute 'get'
+2026-01-10 01:53:59,870 - __main__ - INFO -   Category: family_law
+2026-01-10 01:53:59,870 - __main__ - INFO -     Fetching: Mishnah_Kiddushin
+2026-01-10 01:54:00,873 - __main__ - ERROR -     Error fetching Mishnah_Kiddushin: 'list' object has no attribute 'get'
+2026-01-10 01:54:00,873 - __main__ - INFO -     Fetching: Mishnah_Gittin
+2026-01-10 01:54:02,127 - __main__ - ERROR -     Error fetching Mishnah_Gittin: 'list' object has no attribute 'get'
+2026-01-10 01:54:02,127 - __main__ - INFO -     Fetching: Mishnah_Ketubot
+2026-01-10 01:54:02,913 - __main__ - ERROR -     Error fetching Mishnah_Ketubot: 'list' object has no attribute 'get'
+2026-01-10 01:54:02,928 - __main__ - INFO -   Category: talmud_selections
+2026-01-10 01:54:02,929 - __main__ - INFO -     Fetching: Bava_Kamma
+2026-01-10 01:54:03,915 - __main__ - ERROR -     Error fetching Bava_Kamma: 'list' object has no attribute 'get'
+2026-01-10 01:54:03,915 - __main__ - INFO -     Fetching: Bava_Metzia
+2026-01-10 01:54:04,949 - __main__ - ERROR -     Error fetching Bava_Metzia: 'list' object has no attribute 'get'
+2026-01-10 01:54:04,949 - __main__ - INFO -     Fetching: Sanhedrin
+2026-01-10 01:54:05,919 - __main__ - ERROR -     Error fetching Sanhedrin: 'list' object has no attribute 'get'
+2026-01-10 01:54:05,935 - __main__ - WARNING -   No API key set. Get one free at courtlistener.com
+2026-01-10 01:54:05,935 - __main__ - WARNING -   Set COURTLISTENER_API_KEY environment variable
+2026-01-10 01:54:05,967 - __main__ - INFO -   Surah 2
+2026-01-10 01:54:07,637 - __main__ - INFO -   Surah 4
+2026-01-10 01:54:08,054 - __main__ - INFO -   Surah 5
+2026-01-10 01:54:09,040 - __main__ - INFO -   Surah 17
+2026-01-10 01:55:28,859 - INFO - [SEFARIA] Fetching Hebrew/Jewish texts...
+2026-01-10 01:55:28,875 - INFO -   Category: ethics
+2026-01-10 01:55:28,877 - INFO -     Fetching: Pirkei_Avot
+2026-01-10 01:55:30,072 - INFO -       Got 1 passages
+2026-01-10 01:55:30,072 - INFO -     Fetching: Derech_Eretz_Rabbah
+2026-01-10 01:55:32,008 - WARNING - HTTP error for https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.1: 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.1
+2026-01-10 01:55:33,027 - WARNING - HTTP error for https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.2: 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.2
+2026-01-10 01:55:34,002 - WARNING - HTTP error for https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.3: 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.3
+2026-01-10 01:55:35,028 - WARNING - HTTP error for https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.4: 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.4
+2026-01-10 01:55:36,038 - WARNING - HTTP error for https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.5: 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.5
+2026-01-10 01:55:37,039 - WARNING - HTTP error for https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.6: 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.6
+2026-01-10 01:55:38,068 - WARNING - HTTP error for https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.7: 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.7
+2026-01-10 01:55:40,325 - WARNING - HTTP error for https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.8: 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.8
+2026-01-10 01:55:41,327 - WARNING - HTTP error for https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.9: 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.9
+2026-01-10 01:55:42,524 - WARNING - HTTP error for https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.10: 404 Client Error: Not Found for url: https://www.sefaria.org/api/v3/texts/Derech_Eretz_Rabbah.10
+2026-01-10 01:55:42,524 - INFO -       Got 0 passages
+2026-01-10 01:55:42,528 - INFO -     Fetching: Derech_Eretz_Zuta
+2026-01-10 01:55:44,509 - INFO -       Got 1 passages
+2026-01-10 01:55:44,509 - INFO -   Category: civil_law
+2026-01-10 01:55:44,525 - INFO -     Fetching: Mishnah_Bava_Kamma
+2026-01-10 01:55:46,825 - INFO -       Got 1 passages
+2026-01-10 01:55:46,826 - INFO -     Fetching: Mishnah_Bava_Metzia
+2026-01-10 01:55:48,458 - INFO -       Got 1 passages
+2026-01-10 01:55:48,458 - INFO -     Fetching: Mishnah_Bava_Batra
+2026-01-10 01:55:50,506 - INFO -       Got 1 passages
+2026-01-10 01:55:50,508 - INFO -   Category: oaths_vows
+2026-01-10 01:55:50,521 - INFO -     Fetching: Mishnah_Nedarim
+2026-01-10 01:55:52,676 - INFO -       Got 1 passages
+2026-01-10 01:55:52,676 - INFO -     Fetching: Mishnah_Shevuot
+2026-01-10 01:55:54,530 - INFO -       Got 1 passages
+2026-01-10 01:55:54,530 - INFO -   Category: family
+2026-01-10 01:55:54,541 - INFO -     Fetching: Mishnah_Kiddushin
+2026-01-10 01:55:56,417 - INFO -       Got 1 passages
+2026-01-10 01:55:56,417 - INFO -     Fetching: Mishnah_Gittin
+2026-01-10 01:55:58,482 - INFO -       Got 1 passages
+2026-01-10 01:55:58,482 - INFO -     Fetching: Mishnah_Ketubot
+2026-01-10 01:56:00,476 - INFO -       Got 1 passages
+2026-01-10 01:56:00,480 - INFO -   [OK] Sefaria: 10 passages
+2026-01-10 01:56:00,493 - INFO - [QURAN] Fetching from AlQuran Cloud...
+2026-01-10 01:56:00,507 - INFO -   Surah 1
+2026-01-10 01:56:02,299 - INFO -   Surah 2
+2026-01-10 01:56:02,602 - INFO -   Surah 4
+2026-01-10 01:56:03,566 - INFO -   Surah 5
+2026-01-10 01:56:04,518 - INFO -   Surah 17
+2026-01-10 01:56:05,576 - INFO -   Surah 24
+2026-01-10 01:56:06,504 - INFO -   Surah 49
+2026-01-10 01:56:07,466 - INFO -   Surah 103
+2026-01-10 01:56:08,499 - INFO -   Surah 107
+2026-01-10 01:56:09,476 - INFO -   [OK] Quran: 83 passages
+2026-01-10 01:56:09,477 - INFO - [HADITH] Fetching from Hadith API...
+2026-01-10 01:56:09,481 - INFO -   Collection: Sahih al-Bukhari
+2026-01-10 02:00:36,028 - INFO - [SEFARIA] Discovering available texts...
+2026-01-10 02:00:37,390 - INFO -   Found 30 relevant texts
+2026-01-10 02:00:37,390 - INFO -   Fetching: Essays in Ethics; A Weekly Reading of the Jewish Bible
+2026-01-10 02:00:39,595 - INFO -   Fetching: Mishnah Berakhot
+2026-01-10 02:00:41,716 - INFO -   Fetching: Mishnah Peah
+2026-01-10 02:00:43,670 - INFO -   Fetching: Mishnah Demai
+2026-01-10 02:00:45,593 - INFO -   Fetching: Mishnah Kilayim
+2026-01-10 02:00:47,678 - INFO -   Fetching: Mishnah Sheviit
+2026-01-10 02:00:49,670 - INFO -   Fetching: Mishnah Terumot
+2026-01-10 02:00:51,667 - INFO -   Fetching: Mishnah Maasrot
+2026-01-10 02:00:53,690 - INFO -   Fetching: Mishnah Maaser Sheni
+2026-01-10 02:00:55,692 - INFO -   Fetching: Mishnah Challah
+2026-01-10 02:00:57,894 - INFO -   Fetching: Mishnah Orlah
+2026-01-10 02:00:59,835 - INFO -   Fetching: Mishnah Bikkurim
+2026-01-10 02:01:01,723 - INFO -   Fetching: Mishnah Shabbat
+2026-01-10 02:01:03,744 - INFO -   Fetching: Mishnah Eruvin
+2026-01-10 02:01:05,779 - INFO -   Fetching: Mishnah Pesachim
+2026-01-10 02:01:07,823 - INFO -   Fetching: Mishnah Shekalim
+2026-01-10 02:01:09,821 - INFO -   Fetching: Mishnah Yoma
+2026-01-10 02:01:11,799 - INFO -   Fetching: Mishnah Sukkah
+2026-01-10 02:01:13,811 - INFO -   Fetching: Mishnah Beitzah
+2026-01-10 02:01:15,837 - INFO -   Fetching: Mishnah Rosh Hashanah
+2026-01-10 02:01:17,834 - INFO -   Fetching: Mishnah Ta'anit
+2026-01-10 02:01:19,842 - INFO -   Fetching: Mishnah Megillah
+2026-01-10 02:01:21,845 - INFO -   Fetching: Mishnah Moed Katan
+2026-01-10 02:01:23,916 - INFO -   Fetching: Mishnah Chagigah
+2026-01-10 02:01:25,926 - INFO -   Fetching: Mishnah Yevamot
+2026-01-10 02:01:27,957 - INFO -   Fetching: Mishnah Ketubot
+2026-01-10 02:01:30,107 - INFO -   Fetching: Mishnah Nedarim
+2026-01-10 02:01:31,958 - INFO -   Fetching: Mishnah Nazir
+2026-01-10 02:01:33,981 - INFO -   Fetching: Mishnah Sotah
+2026-01-10 02:01:35,966 - INFO -   Fetching: Mishnah Gittin
+2026-01-10 02:01:38,019 - INFO -   [DONE] Sefaria: 29 passages
+2026-01-10 02:01:38,019 - INFO - [QURAN] Discovering structure...
+2026-01-10 02:01:39,607 - INFO -   Found 114 surahs
+2026-01-10 02:01:39,940 - INFO -   Using editions: quran-uthmani, en.sahih
+2026-01-10 02:01:39,940 - INFO -   Surah 1
+2026-01-10 02:01:40,956 - INFO -   Surah 2
+2026-01-10 02:01:42,141 - INFO -   Surah 3
+2026-01-10 02:01:43,138 - INFO -   Surah 4
+2026-01-10 02:01:44,113 - INFO -   Surah 5
+2026-01-10 02:01:45,046 - INFO -   Surah 6
+2026-01-10 02:01:46,052 - INFO -   Surah 7
+2026-01-10 02:01:47,130 - INFO -   Surah 8
+2026-01-10 02:01:48,086 - INFO -   Surah 9
+2026-01-10 02:01:49,096 - INFO -   Surah 10
+2026-01-10 02:01:50,091 - INFO -   Surah 11
+2026-01-10 02:01:51,107 - INFO -   Surah 12
+2026-01-10 02:01:52,095 - INFO -   Surah 13
+2026-01-10 02:01:53,046 - INFO -   Surah 14
+2026-01-10 02:01:54,015 - INFO -   Surah 15
+2026-01-10 02:01:55,187 - INFO -   Surah 16
+2026-01-10 02:01:56,104 - INFO -   Surah 17
+2026-01-10 02:01:57,107 - INFO -   Surah 18
+2026-01-10 02:01:58,141 - INFO -   Surah 19
+2026-01-10 02:01:59,160 - INFO -   Surah 20
+2026-01-10 02:02:00,364 - INFO -   Surah 21
+2026-01-10 02:02:01,196 - INFO -   Surah 22
+2026-01-10 02:02:02,419 - INFO -   Surah 23
+2026-01-10 02:02:03,239 - INFO -   Surah 24
+2026-01-10 02:02:04,457 - INFO -   Surah 25
+2026-01-10 02:02:05,426 - INFO -   Surah 26
+2026-01-10 02:02:06,683 - INFO -   Surah 27
+2026-01-10 02:02:07,227 - INFO -   Surah 28
+2026-01-10 02:02:08,211 - INFO -   Surah 29
+2026-01-10 02:02:09,213 - INFO -   Surah 30
+2026-01-10 02:02:10,154 - INFO -   Surah 31
+2026-01-10 02:02:11,155 - INFO -   Surah 32
+2026-01-10 02:02:12,450 - INFO -   Surah 33
+2026-01-10 02:02:13,243 - INFO -   Surah 34
+2026-01-10 02:02:15,029 - INFO -   Surah 35
+2026-01-10 02:02:15,196 - INFO -   Surah 36
+2026-01-10 02:02:16,276 - INFO -   Surah 37
+2026-01-10 02:02:17,316 - INFO -   Surah 38
+2026-01-10 02:02:18,218 - INFO -   Surah 39
+2026-01-10 02:02:19,273 - INFO -   Surah 40
+2026-01-10 02:02:20,353 - INFO -   Surah 41
+2026-01-10 02:02:21,248 - INFO -   Surah 42
+2026-01-10 02:02:22,241 - INFO -   Surah 43
+2026-01-10 02:02:23,278 - INFO -   Surah 44
+2026-01-10 02:02:24,243 - INFO -   Surah 45
+2026-01-10 02:02:25,478 - INFO -   Surah 46
+2026-01-10 02:02:26,369 - INFO -   Surah 47
+2026-01-10 02:02:27,444 - INFO -   Surah 48
+2026-01-10 02:02:28,402 - INFO -   Surah 49
+2026-01-10 02:02:29,309 - INFO -   Surah 50
+2026-01-10 02:02:30,305 - INFO -   Surah 51
+2026-01-10 02:02:31,290 - INFO -   Surah 52
+2026-01-10 02:02:32,609 - INFO -   Surah 53
+2026-01-10 02:02:33,340 - INFO -   Surah 54
+2026-01-10 02:02:34,357 - INFO -   Surah 55
+2026-01-10 02:02:35,349 - INFO -   Surah 56
+2026-01-10 02:02:36,352 - INFO -   Surah 57
+2026-01-10 02:02:37,737 - INFO -   Surah 58
+2026-01-10 02:02:38,333 - INFO -   Surah 59
+2026-01-10 02:02:39,353 - INFO -   Surah 60
+2026-01-10 02:02:40,339 - INFO -   Surah 61
+2026-01-10 02:02:41,325 - INFO -   Surah 62
+2026-01-10 02:02:42,493 - INFO -   Surah 63
+2026-01-10 02:02:43,360 - INFO -   Surah 64
+2026-01-10 02:02:44,345 - INFO -   Surah 65
+2026-01-10 02:02:45,409 - INFO -   Surah 66
+2026-01-10 02:02:46,392 - INFO -   Surah 67
+2026-01-10 02:02:47,366 - INFO -   Surah 68
+2026-01-10 02:02:48,464 - INFO -   Surah 69
+2026-01-10 02:02:49,402 - INFO -   Surah 70
+2026-01-10 02:02:50,562 - INFO -   Surah 71
+2026-01-10 02:02:51,405 - INFO -   Surah 72
+2026-01-10 02:02:52,456 - INFO -   Surah 73
+2026-01-10 02:02:53,447 - INFO -   Surah 74
+2026-01-10 02:02:54,410 - INFO -   Surah 75
+2026-01-10 02:02:55,830 - INFO -   Surah 76
+2026-01-10 02:02:56,429 - INFO -   Surah 77
+2026-01-10 02:02:57,922 - INFO -   Surah 78
+2026-01-10 02:02:58,436 - INFO -   Surah 79
+2026-01-10 02:02:59,441 - INFO -   Surah 80
+2026-01-10 02:03:00,457 - INFO -   Surah 81
+2026-01-10 02:03:01,561 - INFO -   Surah 82
+2026-01-10 02:03:02,654 - INFO -   Surah 83
+2026-01-10 02:03:03,440 - INFO -   Surah 84
+2026-01-10 02:03:04,458 - INFO -   Surah 85
+2026-01-10 02:03:05,471 - INFO -   Surah 86
+2026-01-10 02:03:06,545 - INFO -   Surah 87
+2026-01-10 02:03:07,981 - INFO -   Surah 88
+2026-01-10 02:03:08,477 - INFO -   Surah 89
+2026-01-10 02:03:09,512 - INFO -   Surah 90
+2026-01-10 02:03:10,495 - INFO -   Surah 91
+2026-01-10 02:03:11,671 - INFO -   Surah 92
+2026-01-10 02:03:12,513 - INFO -   Surah 93
+2026-01-10 02:03:13,567 - INFO -   Surah 94
+2026-01-10 02:03:14,536 - INFO -   Surah 95
+2026-01-10 02:03:15,557 - INFO -   Surah 96
+2026-01-10 02:03:16,761 - INFO -   Surah 97
+2026-01-10 02:03:17,574 - INFO -   Surah 98
+2026-01-10 02:03:18,975 - INFO -   Surah 99
+2026-01-10 02:03:19,611 - INFO -   [DONE] Quran: 654 passages
+2026-01-10 02:03:19,611 - INFO - [HADITH] Discovering collections...
+2026-01-10 02:03:21,879 - INFO -   Found 0 English collections
+2026-01-10 02:03:21,879 - INFO -   [DONE] Hadith: 0 passages
+2026-01-10 02:03:21,895 - INFO - [BIBLE] Fetching passages...
+2026-01-10 02:03:21,895 - INFO -   exodus 20:1-17
+2026-01-10 02:03:22,915 - INFO -   leviticus 19:1-18
+2026-01-10 02:03:23,212 - INFO -   deuteronomy 6:4-9
+2026-01-10 02:03:24,225 - INFO -   micah 6:6-8
+2026-01-10 02:03:25,235 - INFO -   amos 5:21-24
+2026-01-10 02:03:26,270 - INFO -   isaiah 1:16-17
+2026-01-10 02:03:27,322 - INFO -   matthew 5:1-48
+2026-01-10 02:03:28,289 - INFO -   matthew 6:1-34
+2026-01-10 02:03:29,542 - INFO -   matthew 7:1-12
+2026-01-10 02:03:30,276 - INFO -   romans 12:1-21
+2026-01-10 02:03:31,230 - INFO -   romans 13:1-14
+2026-01-10 02:03:32,255 - INFO -   1corinthians 13:1-13
+2026-01-10 02:03:33,248 - INFO -   galatians 5:16-26
+2026-01-10 02:03:34,250 - INFO -   james 1:19-27
+2026-01-10 02:03:35,307 - INFO -   james 2:1-26
+2026-01-10 02:03:36,280 - INFO -   1john 3:11-24
+2026-01-10 02:03:37,258 - INFO -   1john 4:7-21
+2026-01-10 02:03:38,292 - INFO -   [DONE] Bible: 17 passages
+2026-01-10 02:03:38,292 - INFO - [GITA] Discovering chapters...
+2026-01-10 02:03:40,079 - INFO -   Found 18 chapters
+2026-01-10 02:03:40,079 - INFO -   Chapter 1
+2026-01-10 02:03:40,262 - INFO -   Chapter 2
+2026-01-10 02:03:41,263 - INFO -   Chapter 3
+2026-01-10 02:03:42,264 - INFO -   Chapter 4
+2026-01-10 02:03:43,251 - INFO -   Chapter 5
+2026-01-10 02:03:44,252 - INFO -   Chapter 6
+2026-01-10 02:03:45,269 - INFO -   Chapter 7
+2026-01-10 02:03:46,290 - INFO -   Chapter 8
+2026-01-10 02:03:47,293 - INFO -   Chapter 9
+2026-01-10 02:03:48,308 - INFO -   Chapter 10
+2026-01-10 02:03:49,411 - INFO -   Chapter 11
+2026-01-10 02:03:50,280 - INFO -   Chapter 12
+2026-01-10 02:03:51,316 - INFO -   Chapter 13
+2026-01-10 02:03:52,316 - INFO -   Chapter 14
+2026-01-10 02:03:53,285 - INFO -   Chapter 15
+2026-01-10 02:03:54,483 - INFO -   Chapter 16
+2026-01-10 02:03:55,337 - INFO -   Chapter 17
+2026-01-10 02:03:56,295 - INFO -   Chapter 18
+2026-01-10 02:03:57,359 - INFO -   [DONE] Gita: 0 passages
+2026-01-10 02:03:57,360 - INFO - [BUDDHIST] Discovering suttas...
+2026-01-10 02:03:57,373 - INFO -   Nikaya: DN
+2026-01-10 02:03:58,990 - INFO -     Found 1 suttas
+2026-01-10 02:04:00,430 - INFO -   Nikaya: MN
+2026-01-10 02:04:01,225 - INFO -     Found 1 suttas
+2026-01-10 02:04:03,238 - INFO -   Nikaya: SN
+2026-01-10 02:04:04,230 - INFO -     Found 1 suttas
+2026-01-10 02:04:11,833 - INFO -   Nikaya: AN
+2026-01-10 02:04:12,751 - INFO -     Found 12 suttas
+2026-01-10 02:04:40,741 - INFO -   [DONE] Buddhist: 0 passages
+2026-01-10 02:04:40,741 - INFO - [COURTLISTENER] Searching case law...
+2026-01-10 02:04:40,757 - WARNING -   No API key - results may be limited
+2026-01-10 02:04:40,757 - INFO -   Query: contract
+2026-01-10 02:04:42,880 - INFO -   Query: negligence
+2026-01-10 02:04:43,513 - INFO -   Query: due process
+2026-01-10 02:04:44,697 - INFO -   Query: fiduciary
+2026-01-10 02:04:45,334 - INFO -   Query: fraud
+2026-01-10 02:04:47,034 - INFO -   [DONE] CourtListener: 0 passages
+2026-01-10 02:04:47,034 - INFO - [EMBEDDED] Loading curated samples...
+2026-01-10 02:04:47,048 - INFO -   [DONE] Embedded: 16 passages
+2026-01-10 02:04:47,238 - INFO - 
+=== CORPUS STATISTICS ===
+2026-01-10 02:04:47,238 - INFO - Total: 716 passages
+2026-01-10 02:04:47,254 - INFO -   bible: 17
+2026-01-10 02:04:47,254 - INFO -   buddhist: 0
+2026-01-10 02:04:47,254 - INFO -   courtlistener: 0
+2026-01-10 02:04:47,254 - INFO -   embedded: 16
+2026-01-10 02:04:47,258 - INFO -   gita: 0
+2026-01-10 02:04:47,258 - INFO -   hadith: 0
+2026-01-10 02:04:47,258 - INFO -   quran: 654
+2026-01-10 02:04:47,258 - INFO -   sefaria: 29

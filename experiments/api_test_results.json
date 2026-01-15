@@ -1,0 +1,149 @@
+{
+  "sefaria_index": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "list"
+  },
+  "sefaria_shape": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "list"
+  },
+  "sefaria_v3_text": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "dict"
+  },
+  "sefaria_texts_alt": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "dict"
+  },
+  "quran_editions": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "dict"
+  },
+  "quran_surah": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "dict"
+  },
+  "hadith_editions": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "dict"
+  },
+  "hadith_bukhari_1": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "dict"
+  },
+  "bible_verse": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "dict"
+  },
+  "bible_ot": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "dict"
+  },
+  "gita_chapters": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "list"
+  },
+  "gita_chapter2": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "dict"
+  },
+  "gita_verse": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "dict"
+  },
+  "gita_alt": {
+    "status": "OK_TEXT",
+    "code": 200,
+    "error": null,
+    "has_data": false,
+    "data_type": null
+  },
+  "courtlistener_search": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "dict"
+  },
+  "ctext_gettext": {
+    "status": "OK_TEXT",
+    "code": 403,
+    "error": null,
+    "has_data": false,
+    "data_type": null
+  },
+  "suttacentral_sutta": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "list"
+  },
+  "suttacentral_text": {
+    "status": "OK",
+    "code": 200,
+    "error": null,
+    "has_data": true,
+    "data_type": "dict"
+  },
+  "indica_rv": {
+    "status": "OK_TEXT",
+    "code": 404,
+    "error": null,
+    "has_data": false,
+    "data_type": null
+  },
+  "theaum_gita": {
+    "status": "OK_TEXT",
+    "code": 404,
+    "error": null,
+    "has_data": false,
+    "data_type": null
+  },
+  "theaum_verse": {
+    "status": "OK_TEXT",
+    "code": 404,
+    "error": null,
+    "has_data": false,
+    "data_type": null
+  }
+}

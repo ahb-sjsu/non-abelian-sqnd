@@ -1,0 +1,122 @@
+[
+  {
+    "id": "chinese:Analects_12:2",
+    "source": "chinese",
+    "ref": "Analects 12:2",
+    "title": "Analects",
+    "text_original": "Do not do to others what you would not wish done to yourself.",
+    "text_english": "Do not do to others what you would not wish done to yourself.",
+    "language": "zh",
+    "category": "philosophy",
+    "subcategory": "confucian",
+    "date_composed": "Ancient",
+    "metadata": {
+      "embedded": true
+    }
+  },
+  {
+    "id": "chinese:Analects_15:24",
+    "source": "chinese",
+    "ref": "Analects 15:24",
+    "title": "Analects",
+    "text_original": "Reciprocity: do not do to others what you do not want.",
+    "text_english": "Reciprocity: do not do to others what you do not want.",
+    "language": "zh",
+    "category": "philosophy",
+    "subcategory": "confucian",
+    "date_composed": "Ancient",
+    "metadata": {
+      "embedded": true
+    }
+  },
+  {
+    "id": "chinese:Tao_Te_Ching_63",
+    "source": "chinese",
+    "ref": "Tao Te Ching 63",
+    "title": "Tao",
+    "text_original": "Respond to injury with virtue.",
+    "text_english": "Respond to injury with virtue.",
+    "language": "zh",
+    "category": "philosophy",
+    "subcategory": "taoist",
+    "date_composed": "Ancient",
+    "metadata": {
+      "embedded": true
+    }
+  },
+  {
+    "id": "greek:Aristotle_NE_1106b",
+    "source": "greek",
+    "ref": "Aristotle NE 1106b",
+    "title": "Aristotle",
+    "text_original": "Virtue is a mean between extremes.",
+    "text_english": "Virtue is a mean between extremes.",
+    "language": "grc",
+    "category": "philosophy",
+    "subcategory": "aristotle",
+    "date_composed": "Ancient",
+    "metadata": {
+      "embedded": true
+    }
+  },
+  {
+    "id": "greek:Plato_Crito_49b",
+    "source": "greek",
+    "ref": "Plato Crito 49b",
+    "title": "Plato",
+    "text_original": "Never retaliate evil for evil.",
+    "text_english": "Never retaliate evil for evil.",
+    "language": "grc",
+    "category": "philosophy",
+    "subcategory": "plato",
+    "date_composed": "Ancient",
+    "metadata": {
+      "embedded": true
+    }
+  },
+  {
+    "id": "greek:Epictetus_Ench._1",
+    "source": "greek",
+    "ref": "Epictetus Ench. 1",
+    "title": "Epictetus",
+    "text_original": "Some things are in our control, others not.",
+    "text_english": "Some things are in our control, others not.",
+    "language": "grc",
+    "category": "philosophy",
+    "subcategory": "stoic",
+    "date_composed": "Ancient",
+    "metadata": {
+      "embedded": true
+    }
+  },
+  {
+    "id": "roman:Digest_1.1.10",
+    "source": "roman",
+    "ref": "Digest 1.1.10",
+    "title": "Digest",
+    "text_original": "Justice is rendering each their due.",
+    "text_english": "Justice is rendering each their due.",
+    "language": "la",
+    "category": "legal",
+    "subcategory": "law",
+    "date_composed": "Ancient",
+    "metadata": {
+      "embedded": true
+    }
+  },
+  {
+    "id": "roman:Digest_1.1.10.1",
+    "source": "roman",
+    "ref": "Digest 1.1.10.1",
+    "title": "Digest",
+    "text_original": "Live honestly, harm none, give each their due.",
+    "text_english": "Live honestly, harm none, give each their due.",
+    "language": "la",
+    "category": "legal",
+    "subcategory": "law",
+    "date_composed": "Ancient",
+    "metadata": {
+      "embedded": true
+    }
+  }
+]

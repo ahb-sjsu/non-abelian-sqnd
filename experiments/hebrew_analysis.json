@@ -1,0 +1,21 @@
+{
+  "corpus_name": "Hebrew Scrolls",
+  "corpus_size": 10,
+  "date_range": "200 BCE - 500 CE",
+  "language": "he+en",
+  "state_distribution": {
+    "L": 0.75,
+    "N": 0.25
+  },
+  "gate_frequencies": {
+    "O\u2192L": {
+      "under duress": 100.0
+    },
+    "L\u2192O": {
+      "oath": 100.0
+    }
+  },
+  "correlative_consistency": {
+    "L\u2194N": 0.0
+  }
+}

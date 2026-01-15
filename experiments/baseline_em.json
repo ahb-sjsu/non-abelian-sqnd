@@ -1,0 +1,2361 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2026-01-10T09:15:46.116787",
+  "methodology": "Bayesian synthesis across 5 corpora with bootstrap CIs",
+  "corpora_used": [
+    "dear_abby",
+    "hebrew_scrolls",
+    "common_law",
+    "philosophical",
+    "professional_codes"
+  ],
+  "total_observations": 23327,
+  "time_span": "500 BCE - 2025 CE (~2500 years)",
+  "cultures": [
+    "Jewish",
+    "Western professional",
+    "Cross-cultural",
+    "Anglo-American",
+    "American"
+  ],
+  "correlative_o_c": 0.881620202697229,
+  "correlative_o_c_ci": [
+    0.8810406007575584,
+    0.8821998046368995
+  ],
+  "correlative_l_n": 0.8331572462785363,
+  "correlative_l_n_ci": [
+    0.8322444594949762,
+    0.8340700330620964
+  ],
+  "bond_index": 0.14261127551211739,
+  "bond_index_threshold": 0.2,
+  "tier_1_gates": [
+    {
+      "name": "pikuach_nefesh",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "life-saving",
+        "mortal danger"
+      ],
+      "triggers_he": [
+        "\u05e1\u05db\u05e0\u05ea \u05e0\u05e4\u05e9\u05d5\u05ea",
+        "\u05e4\u05d9\u05e7\u05d5\u05d7 \u05e0\u05e4\u05e9"
+      ],
+      "effectiveness": 0.99,
+      "effectiveness_ci": [
+        0.89,
+        1.0
+      ],
+      "total_n": 67,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "shevuah_oath",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "swore",
+        "oath",
+        "sworn"
+      ],
+      "triggers_he": [
+        "\u05e9\u05d1\u05d5\u05e2\u05d4",
+        "\u05e0\u05e9\u05d1\u05e2"
+      ],
+      "effectiveness": 0.9899999999999999,
+      "effectiveness_ci": [
+        0.8899999999999999,
+        1.0
+      ],
+      "total_n": 76,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "ones_duress",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "coerced",
+        "forced",
+        "duress"
+      ],
+      "triggers_he": [
+        "\u05d0\u05e0\u05d5\u05e1",
+        "\u05d0\u05d5\u05e0\u05e1"
+      ],
+      "effectiveness": 0.9899999999999999,
+      "effectiveness_ci": [
+        0.8899999999999999,
+        1.0
+      ],
+      "total_n": 82,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "ones_impossibility",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "force majeure",
+        "impossibility"
+      ],
+      "triggers_he": [
+        "\u05d0\u05d5\u05e0\u05e1"
+      ],
+      "effectiveness": 0.9899999999999999,
+      "effectiveness_ci": [
+        0.8899999999999999,
+        1.0
+      ],
+      "total_n": 82,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "neder_vow",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "vowed",
+        "vow"
+      ],
+      "triggers_he": [
+        "\u05e0\u05d3\u05e8",
+        "\u05e0\u05d5\u05d3\u05e8"
+      ],
+      "effectiveness": 0.98,
+      "effectiveness_ci": [
+        0.88,
+        1.0
+      ],
+      "total_n": 89,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "statutory_duty",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "legally required",
+        "law mandates",
+        "statute requires"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.98,
+      "effectiveness_ci": [
+        0.9299999999999999,
+        1.0
+      ],
+      "total_n": 220,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "do_no_harm",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "do no harm",
+        "non-maleficence",
+        "primum non nocere"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.98,
+      "effectiveness_ci": [
+        0.88,
+        1.0
+      ],
+      "total_n": 95,
+      "sources": [
+        "professional_codes"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "sakanah_danger",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "danger",
+        "life-threatening"
+      ],
+      "triggers_he": [
+        "\u05e1\u05db\u05e0\u05ea \u05e0\u05e4\u05e9\u05d5\u05ea",
+        "\u05e1\u05db\u05e0\u05d4"
+      ],
+      "effectiveness": 0.98,
+      "effectiveness_ci": [
+        0.88,
+        1.0
+      ],
+      "total_n": 45,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "contract_formation",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "offer and acceptance",
+        "meeting of minds",
+        "consideration"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.9700000000000001,
+      "effectiveness_ci": [
+        0.92,
+        1.0
+      ],
+      "total_n": 340,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "kinyan_acquisition",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "kinyan",
+        "acquired",
+        "transaction"
+      ],
+      "triggers_he": [
+        "\u05e7\u05e0\u05d4",
+        "\u05e7\u05e0\u05d9\u05df"
+      ],
+      "effectiveness": 0.97,
+      "effectiveness_ci": [
+        0.9199999999999999,
+        1.0
+      ],
+      "total_n": 124,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "fiduciary_to_client",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "confidentiality",
+        "client's interest",
+        "loyalty to client"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.97,
+      "effectiveness_ci": [
+        0.9199999999999999,
+        1.0
+      ],
+      "total_n": 185,
+      "sources": [
+        "professional_codes"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "duress_coercion",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "coercion",
+        "threat",
+        "undue influence",
+        "duress"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.97,
+      "effectiveness_ci": [
+        0.9199999999999999,
+        1.0
+      ],
+      "total_n": 120,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "illegal_instruction",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "unethical instruction",
+        "improper purpose",
+        "illegal"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.9699999999999999,
+      "effectiveness_ci": [
+        0.8699999999999999,
+        1.0
+      ],
+      "total_n": 68,
+      "sources": [
+        "professional_codes"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "professional_duty",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "must",
+        "required to",
+        "shall",
+        "duty to"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.9600000000000001,
+      "effectiveness_ci": [
+        0.91,
+        1.0
+      ],
+      "total_n": 280,
+      "sources": [
+        "professional_codes"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "fraud_misrepresentation",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "misrepresentation",
+        "deceit",
+        "fraud"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.9600000000000001,
+      "effectiveness_ci": [
+        0.91,
+        1.0
+      ],
+      "total_n": 140,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "arevut_guarantor",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "guarantor",
+        "surety",
+        "guarantee"
+      ],
+      "triggers_he": [
+        "\u05e2\u05e8\u05d1\u05d5\u05ea",
+        "\u05e2\u05e8\u05d1"
+      ],
+      "effectiveness": 0.96,
+      "effectiveness_ci": [
+        0.86,
+        1.0
+      ],
+      "total_n": 38,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "hefker_abandonment",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "abandoned",
+        "ownerless",
+        "renounced"
+      ],
+      "triggers_he": [
+        "\u05d4\u05e4\u05e7\u05e8"
+      ],
+      "effectiveness": 0.96,
+      "effectiveness_ci": [
+        0.86,
+        1.0
+      ],
+      "total_n": 34,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "mutual_rescission",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "release",
+        "rescission",
+        "mutual agreement to cancel"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.96,
+      "effectiveness_ci": [
+        0.86,
+        1.0
+      ],
+      "total_n": 85,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "gezel_theft",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "robbery",
+        "theft",
+        "stolen"
+      ],
+      "triggers_he": [
+        "\u05d2\u05d6\u05dc",
+        "\u05d2\u05e0\u05d1"
+      ],
+      "effectiveness": 0.96,
+      "effectiveness_ci": [
+        0.86,
+        1.0
+      ],
+      "total_n": 94,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "fiduciary_duty",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "trust relationship",
+        "duty of loyalty",
+        "fiduciary"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.9599999999999999,
+      "effectiveness_ci": [
+        0.9099999999999998,
+        1.0
+      ],
+      "total_n": 180,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "informed_consent",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "disclosure",
+        "patient autonomy",
+        "informed consent"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.95,
+      "effectiveness_ci": [
+        0.8999999999999999,
+        1.0
+      ],
+      "total_n": 120,
+      "sources": [
+        "professional_codes"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "mechilah_forgiveness",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "relinquished",
+        "forgave",
+        "waived"
+      ],
+      "triggers_he": [
+        "\u05de\u05d7\u05d9\u05dc\u05d4",
+        "\u05de\u05d7\u05dc"
+      ],
+      "effectiveness": 0.95,
+      "effectiveness_ci": [
+        0.85,
+        1.0
+      ],
+      "total_n": 47,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "novation",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "new agreement",
+        "substituted contract",
+        "novation"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.95,
+      "effectiveness_ci": [
+        0.85,
+        1.0
+      ],
+      "total_n": 45,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "abuse",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "violent",
+        "abusive",
+        "abused",
+        "cruel",
+        "mistreated"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.95,
+      "effectiveness_ci": [
+        0.8999999999999999,
+        1.0
+      ],
+      "total_n": 620,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "illegality",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "criminal",
+        "void as against public policy",
+        "against the law",
+        "illegal",
+        "unlawful"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.9497297297297297,
+      "effectiveness_ci": [
+        0.8997297297297296,
+        0.9997297297297297
+      ],
+      "total_n": 370,
+      "sources": [
+        "dear_abby",
+        "common_law"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.9717157287525381
+    },
+    {
+      "name": "explicit_promise",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "gave your word",
+        "committed",
+        "promised",
+        "vowed",
+        "swore"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.94,
+      "effectiveness_ci": [
+        0.8899999999999999,
+        0.99
+      ],
+      "total_n": 1250,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "kabbalat_ol",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "accepted upon oneself",
+        "took upon"
+      ],
+      "triggers_he": [
+        "\u05e7\u05d9\u05d1\u05dc \u05e2\u05dc\u05d9\u05d5"
+      ],
+      "effectiveness": 0.94,
+      "effectiveness_ci": [
+        0.84,
+        1.0
+      ],
+      "total_n": 45,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "competence_required",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "qualified",
+        "within expertise",
+        "competent"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.94,
+      "effectiveness_ci": [
+        0.8899999999999999,
+        0.99
+      ],
+      "total_n": 110,
+      "sources": [
+        "professional_codes"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "patur_exempt",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "free from obligation",
+        "exempt"
+      ],
+      "triggers_he": [
+        "\u05e4\u05d8\u05d5\u05e8"
+      ],
+      "effectiveness": 0.94,
+      "effectiveness_ci": [
+        0.8899999999999999,
+        0.99
+      ],
+      "total_n": 156,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "statute_limitations",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "time-barred",
+        "laches",
+        "statute of limitations"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.94,
+      "effectiveness_ci": [
+        0.84,
+        1.0
+      ],
+      "total_n": 95,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "bitul_mekach",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "null sale",
+        "void transaction"
+      ],
+      "triggers_he": [
+        "\u05d1\u05d9\u05d8\u05d5\u05dc \u05de\u05e7\u05d7"
+      ],
+      "effectiveness": 0.94,
+      "effectiveness_ci": [
+        0.84,
+        1.0
+      ],
+      "total_n": 41,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "incapacity",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "mentally incapacitated",
+        "intoxicated",
+        "minor"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.94,
+      "effectiveness_ci": [
+        0.84,
+        1.0
+      ],
+      "total_n": 85,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "conflict_of_interest",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "adverse interest",
+        "conflict of interest"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.9399999999999998,
+      "effectiveness_ci": [
+        0.8399999999999999,
+        1.0
+      ],
+      "total_n": 92,
+      "sources": [
+        "professional_codes"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "emergency_duty",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "dying",
+        "emergency",
+        "life-threatening",
+        "critical",
+        "urgent"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.93,
+      "effectiveness_ci": [
+        0.88,
+        0.9800000000000001
+      ],
+      "total_n": 890,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "hatarat_nedarim",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "annulment of vow",
+        "released from vow"
+      ],
+      "triggers_he": [
+        "\u05d4\u05ea\u05e8\u05ea \u05e0\u05d3\u05e8\u05d9\u05dd"
+      ],
+      "effectiveness": 0.93,
+      "effectiveness_ci": [
+        0.8300000000000001,
+        1.0
+      ],
+      "total_n": 28,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "waiver",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "relinquished right",
+        "waived",
+        "voluntary abandonment"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.93,
+      "effectiveness_ci": [
+        0.88,
+        0.9800000000000001
+      ],
+      "total_n": 110,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "superseding_duty",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "mandatory reporting",
+        "higher duty",
+        "public safety"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.93,
+      "effectiveness_ci": [
+        0.8300000000000001,
+        1.0
+      ],
+      "total_n": 78,
+      "sources": [
+        "professional_codes"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "explicit_release",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "forgave the debt",
+        "released you",
+        "let you off"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.9200000000000002,
+      "effectiveness_ci": [
+        0.8700000000000001,
+        0.9700000000000002
+      ],
+      "total_n": 320,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "kibud_av",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "honor parents",
+        "filial duty"
+      ],
+      "triggers_he": [
+        "\u05db\u05d9\u05d1\u05d5\u05d3 \u05d0\u05d1 \u05d5\u05d0\u05dd"
+      ],
+      "effectiveness": 0.92,
+      "effectiveness_ci": [
+        0.8200000000000001,
+        1.0
+      ],
+      "total_n": 54,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "danger",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "unsafe",
+        "dangerous",
+        "threat to safety",
+        "harm you"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.92,
+      "effectiveness_ci": [
+        0.87,
+        0.9700000000000001
+      ],
+      "total_n": 380,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "coercion",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "coerced",
+        "no free will",
+        "determined"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.92,
+      "effectiveness_ci": [
+        0.8200000000000001,
+        1.0
+      ],
+      "total_n": 65,
+      "sources": [
+        "philosophical"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "incompetence",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "outside competence",
+        "unqualified"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.92,
+      "effectiveness_ci": [
+        0.8200000000000001,
+        1.0
+      ],
+      "total_n": 55,
+      "sources": [
+        "professional_codes"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "client_waiver",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "informed consent to proceed",
+        "authorized",
+        "client waived"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.9100000000000001,
+      "effectiveness_ci": [
+        0.8100000000000002,
+        1.0
+      ],
+      "total_n": 85,
+      "sources": [
+        "professional_codes"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "tort_duty",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "foreseeable harm",
+        "duty of care",
+        "negligence"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.91,
+      "effectiveness_ci": [
+        0.86,
+        0.9600000000000001
+      ],
+      "total_n": 280,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "accord_satisfaction",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "accord and satisfaction",
+        "substituted performance"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.91,
+      "effectiveness_ci": [
+        0.81,
+        1.0
+      ],
+      "total_n": 65,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "fraud",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "lied",
+        "deceived",
+        "tricked",
+        "fraudulent"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.91,
+      "effectiveness_ci": [
+        0.86,
+        0.9600000000000001
+      ],
+      "total_n": 410,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "sheker_falsehood",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "deception",
+        "lie",
+        "false"
+      ],
+      "triggers_he": [
+        "\u05e9\u05e7\u05e8",
+        "\u05db\u05d6\u05d1"
+      ],
+      "effectiveness": 0.91,
+      "effectiveness_ci": [
+        0.81,
+        1.0
+      ],
+      "total_n": 52,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    }
+  ],
+  "tier_2_gates": [
+    {
+      "name": "promissory_estoppel",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "estoppel",
+        "detrimental reliance",
+        "reasonable reliance"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.89,
+      "effectiveness_ci": [
+        0.84,
+        0.9400000000000001
+      ],
+      "total_n": 120,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "conditional_offer",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "no pressure",
+        "only if you want",
+        "if convenient"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.89,
+      "effectiveness_ci": [
+        0.84,
+        0.9400000000000001
+      ],
+      "total_n": 980,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "accepted_role",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "as spouse",
+        "your responsibility",
+        "as parent",
+        "your job"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.88,
+      "effectiveness_ci": [
+        0.83,
+        0.93
+      ],
+      "total_n": 680,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "categorical_imperative",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "treat as end",
+        "universalizable",
+        "duty"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.88,
+      "effectiveness_ci": [
+        0.78,
+        0.98
+      ],
+      "total_n": 85,
+      "sources": [
+        "philosophical"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "minhag_custom",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "local practice",
+        "custom"
+      ],
+      "triggers_he": [
+        "\u05de\u05e0\u05d4\u05d2\u05d0",
+        "\u05de\u05e0\u05d4\u05d2"
+      ],
+      "effectiveness": 0.88,
+      "effectiveness_ci": [
+        0.78,
+        0.98
+      ],
+      "total_n": 62,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "impossibility",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "impossible",
+        "cannot",
+        "physically unable",
+        "no way to"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.88,
+      "effectiveness_ci": [
+        0.83,
+        0.93
+      ],
+      "total_n": 290,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "impossibility_impracticability",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "impracticability",
+        "impossibility",
+        "frustration"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.88,
+      "effectiveness_ci": [
+        0.78,
+        0.98
+      ],
+      "total_n": 75,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "withdrawal_permitted",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "termination permitted",
+        "may withdraw"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.87,
+      "effectiveness_ci": [
+        0.77,
+        0.97
+      ],
+      "total_n": 65,
+      "sources": [
+        "professional_codes"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "taut_error",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "mistake",
+        "misunderstanding",
+        "error"
+      ],
+      "triggers_he": [
+        "\u05d8\u05e2\u05d5\u05ea"
+      ],
+      "effectiveness": 0.87,
+      "effectiveness_ci": [
+        0.77,
+        0.97
+      ],
+      "total_n": 68,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "unconscionability",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "grossly unfair",
+        "unconscionable",
+        "shocking"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.86,
+      "effectiveness_ci": [
+        0.76,
+        0.96
+      ],
+      "total_n": 70,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "diminished_capacity",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "not autonomous",
+        "irrational",
+        "incapacitated"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.86,
+      "effectiveness_ci": [
+        0.76,
+        0.96
+      ],
+      "total_n": 52,
+      "sources": [
+        "philosophical"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "sole_recourse",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "last resort",
+        "no one else",
+        "only one who can"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.85,
+      "effectiveness_ci": [
+        0.7999999999999999,
+        0.9
+      ],
+      "total_n": 540,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "ren_benevolence",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "benevolence",
+        "humaneness",
+        "compassion"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.85,
+      "effectiveness_ci": [
+        0.75,
+        0.95
+      ],
+      "total_n": 48,
+      "sources": [
+        "philosophical"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "mental_incapacity",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "mentally ill",
+        "dementia",
+        "not in right mind"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.85,
+      "effectiveness_ci": [
+        0.7999999999999999,
+        0.9
+      ],
+      "total_n": 190,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "vulnerability",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "helpless",
+        "disabled",
+        "vulnerable",
+        "child",
+        "elderly"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.82,
+      "effectiveness_ci": [
+        0.7699999999999999,
+        0.87
+      ],
+      "total_n": 720,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_1",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "supererogation",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "beyond duty",
+        "heroic",
+        "supererogatory"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.82,
+      "effectiveness_ci": [
+        0.72,
+        0.9199999999999999
+      ],
+      "total_n": 42,
+      "sources": [
+        "philosophical"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "mistake",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "unilateral mistake",
+        "misunderstanding",
+        "mutual mistake"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.82,
+      "effectiveness_ci": [
+        0.72,
+        0.9199999999999999
+      ],
+      "total_n": 95,
+      "sources": [
+        "common_law"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "social_contract",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "would agree",
+        "rational choice",
+        "veil of ignorance"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.81,
+      "effectiveness_ci": [
+        0.7100000000000001,
+        0.91
+      ],
+      "total_n": 65,
+      "sources": [
+        "philosophical"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "natural_law",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "divine command",
+        "natural law",
+        "inherent right"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.79,
+      "effectiveness_ci": [
+        0.6900000000000001,
+        0.89
+      ],
+      "total_n": 56,
+      "sources": [
+        "philosophical"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "reliance",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "depending on",
+        "relied on",
+        "counting on you"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.7899999999999999,
+      "effectiveness_ci": [
+        0.7399999999999999,
+        0.84
+      ],
+      "total_n": 380,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "no_agreement",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "didn't promise",
+        "never agreed",
+        "no commitment"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.78,
+      "effectiveness_ci": [
+        0.73,
+        0.8300000000000001
+      ],
+      "total_n": 1100,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "ignorance",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "invincible ignorance",
+        "non-culpable ignorance"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.7799999999999999,
+      "effectiveness_ci": [
+        0.6799999999999999,
+        0.8799999999999999
+      ],
+      "total_n": 48,
+      "sources": [
+        "philosophical"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "utility_maximization",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "utility",
+        "maximize welfare",
+        "greatest good"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.76,
+      "effectiveness_ci": [
+        0.66,
+        0.86
+      ],
+      "total_n": 92,
+      "sources": [
+        "philosophical"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    }
+  ],
+  "tier_3_gates": [
+    {
+      "name": "prior_benefit",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "they helped you",
+        "you owe",
+        "after all they did"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.72,
+      "effectiveness_ci": [
+        0.6699999999999999,
+        0.77
+      ],
+      "total_n": 420,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "virtue_excellence",
+      "gate_type": "BINDING",
+      "triggers_en": [
+        "virtuous",
+        "flourishing",
+        "excellence"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.72,
+      "effectiveness_ci": [
+        0.62,
+        0.82
+      ],
+      "total_n": 78,
+      "sources": [
+        "philosophical"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "estrangement",
+      "gate_type": "NULLIFY",
+      "triggers_en": [
+        "no contact",
+        "estranged",
+        "cut off",
+        "disowned"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.72,
+      "effectiveness_ci": [
+        0.6699999999999999,
+        0.77
+      ],
+      "total_n": 410,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "agent_relative",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "partiality permitted",
+        "special relationship"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.71,
+      "effectiveness_ci": [
+        0.61,
+        0.8099999999999999
+      ],
+      "total_n": 38,
+      "sources": [
+        "philosophical"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "reciprocity_failure",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "no reciprocation",
+        "never helped me",
+        "one-sided"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.68,
+      "effectiveness_ci": [
+        0.63,
+        0.7300000000000001
+      ],
+      "total_n": 560,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "competing_duties",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "moral dilemma",
+        "conflicting obligations"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.68,
+      "effectiveness_ci": [
+        0.5800000000000001,
+        0.78
+      ],
+      "total_n": 55,
+      "sources": [
+        "philosophical"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "time_decay",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "long past",
+        "years ago",
+        "ancient history"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.62,
+      "effectiveness_ci": [
+        0.57,
+        0.67
+      ],
+      "total_n": 340,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    },
+    {
+      "name": "significant_cost",
+      "gate_type": "RELEASE",
+      "triggers_en": [
+        "destroying my health",
+        "ruining my life",
+        "at great cost"
+      ],
+      "triggers_he": [],
+      "effectiveness": 0.55,
+      "effectiveness_ci": [
+        0.5,
+        0.6000000000000001
+      ],
+      "total_n": 450,
+      "sources": [
+        "dear_abby"
+      ],
+      "processing_mode": "system_2",
+      "cross_cultural_stability": 0.5
+    }
+  ],
+  "dimensions": [
+    {
+      "name": "FAIRNESS",
+      "weight": 0.1654195559756081,
+      "weight_ci": [
+        0.14729907277013823,
+        0.18354003918107795
+      ],
+      "total_n": 5005,
+      "source_weights": {
+        "dear_abby": 0.18,
+        "hebrew_scrolls": 0.22,
+        "common_law": 0.19,
+        "philosophical": 0.2,
+        "professional_codes": 0.16
+      },
+      "cross_cultural_alignment": 0.7272727272727273
+    },
+    {
+      "name": "RIGHTS",
+      "weight": 0.14391427984777197,
+      "weight_ci": [
+        0.12579379664230209,
+        0.16203476305324183
+      ],
+      "total_n": 4342,
+      "source_weights": {
+        "dear_abby": 0.16,
+        "hebrew_scrolls": 0.11,
+        "common_law": 0.18,
+        "philosophical": 0.14,
+        "professional_codes": 0.1
+      },
+      "cross_cultural_alignment": 0.5555555555555556
+    },
+    {
+      "name": "HARM",
+      "weight": 0.13015177615002765,
+      "weight_ci": [
+        0.11203129294455777,
+        0.1482722593554975
+      ],
+      "total_n": 3771,
+      "source_weights": {
+        "dear_abby": 0.14,
+        "hebrew_scrolls": 0.14,
+        "common_law": 0.11,
+        "philosophical": 0.18,
+        "professional_codes": 0.22
+      },
+      "cross_cultural_alignment": 0.5
+    },
+    {
+      "name": "AUTONOMY",
+      "weight": 0.12294456088795291,
+      "weight_ci": [
+        0.10482407768248303,
+        0.14106504409342277
+      ],
+      "total_n": 3509,
+      "source_weights": {
+        "dear_abby": 0.13,
+        "hebrew_scrolls": 0.16,
+        "common_law": 0.15,
+        "philosophical": 0.17,
+        "professional_codes": 0.18
+      },
+      "cross_cultural_alignment": 0.7222222222222223
+    },
+    {
+      "name": "LEGITIMACY",
+      "weight": 0.1103148416514875,
+      "weight_ci": [
+        0.09219435844601763,
+        0.12843532485695736
+      ],
+      "total_n": 3079,
+      "source_weights": {
+        "dear_abby": 0.12,
+        "hebrew_scrolls": 0.13,
+        "common_law": 0.13,
+        "philosophical": 0.1,
+        "professional_codes": 0.15
+      },
+      "cross_cultural_alignment": 0.6666666666666667
+    },
+    {
+      "name": "SOCIAL",
+      "weight": 0.09060241602734936,
+      "weight_ci": [
+        0.0724819328218795,
+        0.10872289923281925
+      ],
+      "total_n": 2355,
+      "source_weights": {
+        "dear_abby": 0.1,
+        "hebrew_scrolls": 0.12,
+        "common_law": 0.06,
+        "philosophical": 0.12
+      },
+      "cross_cultural_alignment": 0.5
+    },
+    {
+      "name": "PROCEDURE",
+      "weight": 0.06434522017665185,
+      "weight_ci": [
+        0.04622473697118198,
+        0.08246570338212172
+      ],
+      "total_n": 1501,
+      "source_weights": {
+        "dear_abby": 0.06,
+        "hebrew_scrolls": 0.05,
+        "common_law": 0.14,
+        "professional_codes": 0.07
+      },
+      "cross_cultural_alignment": 0.3571428571428571
+    },
+    {
+      "name": "PRIVACY",
+      "weight": 0.06342169121914457,
+      "weight_ci": [
+        0.04530120801367468,
+        0.08154217442461444
+      ],
+      "total_n": 1400,
+      "source_weights": {
+        "dear_abby": 0.07
+      },
+      "cross_cultural_alignment": 0.5
+    },
+    {
+      "name": "SANCTITY",
+      "weight": 0.06342169121914457,
+      "weight_ci": [
+        0.027180724808204815,
+        0.09966265763008432
+      ],
+      "total_n": 56,
+      "source_weights": {
+        "hebrew_scrolls": 0.07
+      },
+      "cross_cultural_alignment": 0.5
+    },
+    {
+      "name": "EPISTEMIC",
+      "weight": 0.045463966844861536,
+      "weight_ci": [
+        0.027343483639391663,
+        0.06358445005033142
+      ],
+      "total_n": 1002,
+      "source_weights": {
+        "dear_abby": 0.04,
+        "common_law": 0.04,
+        "philosophical": 0.09,
+        "professional_codes": 0.12
+      },
+      "cross_cultural_alignment": 0.33333333333333337
+    }
+  ],
+  "context_weights": {
+    "FAMILY": {
+      "SOCIAL": 1.8,
+      "HARM": 1.4,
+      "FAIRNESS": 1.0,
+      "AUTONOMY": 0.8
+    },
+    "WORKPLACE": {
+      "PROCEDURE": 1.6,
+      "FAIRNESS": 1.5,
+      "LEGITIMACY": 1.4,
+      "SOCIAL": 0.7
+    },
+    "FRIENDSHIP": {
+      "FAIRNESS": 1.5,
+      "AUTONOMY": 1.3,
+      "SOCIAL": 1.4,
+      "PROCEDURE": 0.5
+    },
+    "ROMANCE": {
+      "AUTONOMY": 1.4,
+      "FAIRNESS": 1.3,
+      "HARM": 1.2,
+      "SOCIAL": 1.5
+    },
+    "NEIGHBORS": {
+      "FAIRNESS": 1.6,
+      "RIGHTS": 1.5,
+      "PRIVACY": 1.4,
+      "SOCIAL": 0.8
+    },
+    "STRANGERS": {
+      "FAIRNESS": 1.3,
+      "RIGHTS": 1.4,
+      "HARM": 1.1,
+      "SOCIAL": 0.4
+    },
+    "LEGAL": {
+      "LEGITIMACY": 1.6,
+      "PROCEDURE": 1.5,
+      "RIGHTS": 1.4,
+      "FAIRNESS": 1.2,
+      "AUTONOMY": 1.0
+    },
+    "MEDICAL": {
+      "HARM": 1.8,
+      "AUTONOMY": 1.5,
+      "EPISTEMIC": 1.4,
+      "FAIRNESS": 1.2
+    },
+    "COMMERCIAL": {
+      "FAIRNESS": 1.5,
+      "RIGHTS": 1.4,
+      "AUTONOMY": 1.3,
+      "PROCEDURE": 1.2
+    }
+  },
+  "universal_patterns": [
+    {
+      "corpus": "hebrew_scrolls",
+      "name": "oaths_bind_absolutely",
+      "rate": 0.99,
+      "n": 76
+    },
+    {
+      "corpus": "hebrew_scrolls",
+      "name": "duress_nullifies",
+      "rate": 0.99,
+      "n": 82
+    },
+    {
+      "corpus": "hebrew_scrolls",
+      "name": "life_saving_supersedes",
+      "rate": 0.99,
+      "n": 67
+    },
+    {
+      "corpus": "hebrew_scrolls",
+      "name": "golden_rule",
+      "rate": 0.99,
+      "n": 45
+    },
+    {
+      "corpus": "professional_codes",
+      "name": "do_no_harm",
+      "rate": 0.98,
+      "n": 95
+    },
+    {
+      "corpus": "dear_abby",
+      "name": "children_protected",
+      "rate": 0.97,
+      "n": 950
+    },
+    {
+      "corpus": "hebrew_scrolls",
+      "name": "property_rights_protected",
+      "rate": 0.97,
+      "n": 124
+    },
+    {
+      "corpus": "common_law",
+      "name": "contracts_binding",
+      "rate": 0.97,
+      "n": 340
+    },
+    {
+      "corpus": "common_law",
+      "name": "duress_voids",
+      "rate": 0.97,
+      "n": 120
+    },
+    {
+      "corpus": "dear_abby",
+      "name": "promises_bind",
+      "rate": 0.96,
+      "n": 2100
+    },
+    {
+      "corpus": "hebrew_scrolls",
+      "name": "workers_paid_timely",
+      "rate": 0.96,
+      "n": 38
+    },
+    {
+      "corpus": "common_law",
+      "name": "fraud_voids",
+      "rate": 0.96,
+      "n": 140
+    },
+    {
+      "corpus": "professional_codes",
+      "name": "confidentiality",
+      "rate": 0.96,
+      "n": 185
+    },
+    {
+      "corpus": "dear_abby",
+      "name": "abuse_nullifies",
+      "rate": 0.95,
+      "n": 620
+    },
+    {
+      "corpus": "common_law",
+      "name": "consideration_required",
+      "rate": 0.95,
+      "n": 340
+    },
+    {
+      "corpus": "philosophical",
+      "name": "golden_rule_universal",
+      "rate": 0.95,
+      "n": 120
+    },
+    {
+      "corpus": "professional_codes",
+      "name": "informed_consent",
+      "rate": 0.95,
+      "n": 120
+    },
+    {
+      "corpus": "common_law",
+      "name": "minors_protected",
+      "rate": 0.94,
+      "n": 85
+    },
+    {
+      "corpus": "professional_codes",
+      "name": "competence",
+      "rate": 0.94,
+      "n": 110
+    },
+    {
+      "corpus": "professional_codes",
+      "name": "conflicts_disclosed",
+      "rate": 0.94,
+      "n": 92
+    },
+    {
+      "corpus": "dear_abby",
+      "name": "emergencies_create_duty",
+      "rate": 0.93,
+      "n": 890
+    },
+    {
+      "corpus": "philosophical",
+      "name": "harm_principle",
+      "rate": 0.92,
+      "n": 108
+    },
+    {
+      "corpus": "dear_abby",
+      "name": "fraud_nullifies",
+      "rate": 0.91,
+      "n": 410
+    },
+    {
+      "corpus": "dear_abby",
+      "name": "consent_required",
+      "rate": 0.91,
+      "n": 1800
+    },
+    {
+      "corpus": "philosophical",
+      "name": "basic_fairness",
+      "rate": 0.91,
+      "n": 125
+    },
+    {
+      "corpus": "philosophical",
+      "name": "autonomy_respected",
+      "rate": 0.89,
+      "n": 102
+    }
+  ],
+  "contested_patterns": [
+    {
+      "name": "moral_relativism",
+      "agreement_rate": 0.35,
+      "agreement_ci": [
+        0.3,
+        0.39999999999999997
+      ],
+      "total_n": 120,
+      "sources": [
+        "philosophical"
+      ],
+      "notes": "Cross-cultural variation"
+    },
+    {
+      "name": "forgiveness_required",
+      "agreement_rate": 0.42,
+      "agreement_ci": [
+        0.37,
+        0.47
+      ],
+      "total_n": 360,
+      "sources": [
+        "dear_abby"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "blame_reduces_duty",
+      "agreement_rate": 0.45,
+      "agreement_ci": [
+        0.4,
+        0.5
+      ],
+      "total_n": 390,
+      "sources": [
+        "dear_abby"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "white_lies_permitted",
+      "agreement_rate": 0.48,
+      "agreement_ci": [
+        0.43,
+        0.53
+      ],
+      "total_n": 520,
+      "sources": [
+        "dear_abby"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "demandingness_of_morality",
+      "agreement_rate": 0.48,
+      "agreement_ci": [
+        0.43,
+        0.53
+      ],
+      "total_n": 95,
+      "sources": [
+        "philosophical"
+      ],
+      "notes": "How much can morality demand?"
+    },
+    {
+      "name": "resource_allocation",
+      "agreement_rate": 0.48,
+      "agreement_ci": [
+        0.43,
+        0.53
+      ],
+      "total_n": 65,
+      "sources": [
+        "professional_codes"
+      ],
+      "notes": "Triage ethics"
+    },
+    {
+      "name": "self_sacrifice_required",
+      "agreement_rate": 0.5,
+      "agreement_ci": [
+        0.45,
+        0.55
+      ],
+      "total_n": 23,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "consequentialism_vs_deontology",
+      "agreement_rate": 0.5,
+      "agreement_ci": [
+        0.45,
+        0.55
+      ],
+      "total_n": 180,
+      "sources": [
+        "philosophical"
+      ],
+      "notes": "Fundamental metaethical divide"
+    },
+    {
+      "name": "loyalty_vs_truth",
+      "agreement_rate": 0.51,
+      "agreement_ci": [
+        0.46,
+        0.56
+      ],
+      "total_n": 440,
+      "sources": [
+        "dear_abby"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "family_vs_self_care",
+      "agreement_rate": 0.52,
+      "agreement_ci": [
+        0.47000000000000003,
+        0.5700000000000001
+      ],
+      "total_n": 680,
+      "sources": [
+        "dear_abby"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "punitive_damages_scope",
+      "agreement_rate": 0.52,
+      "agreement_ci": [
+        0.47000000000000003,
+        0.5700000000000001
+      ],
+      "total_n": 80,
+      "sources": [
+        "common_law"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "moral_luck",
+      "agreement_rate": 0.52,
+      "agreement_ci": [
+        0.47000000000000003,
+        0.5700000000000001
+      ],
+      "total_n": 65,
+      "sources": [
+        "philosophical"
+      ],
+      "notes": "Nagel/Williams debate"
+    },
+    {
+      "name": "strict_vs_lenient_interpretation",
+      "agreement_rate": 0.55,
+      "agreement_ci": [
+        0.5,
+        0.6000000000000001
+      ],
+      "total_n": 89,
+      "sources": [
+        "hebrew_scrolls"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "efficient_breach",
+      "agreement_rate": 0.55,
+      "agreement_ci": [
+        0.5,
+        0.6000000000000001
+      ],
+      "total_n": 65,
+      "sources": [
+        "common_law"
+      ],
+      "notes": "Law & Economics debate"
+    },
+    {
+      "name": "paternalism_extent",
+      "agreement_rate": 0.55,
+      "agreement_ci": [
+        0.5,
+        0.6000000000000001
+      ],
+      "total_n": 85,
+      "sources": [
+        "professional_codes"
+      ],
+      "notes": "When override autonomy?"
+    },
+    {
+      "name": "good_faith_extent",
+      "agreement_rate": 0.58,
+      "agreement_ci": [
+        0.5299999999999999,
+        0.63
+      ],
+      "total_n": 95,
+      "sources": [
+        "common_law"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "whistleblowing_duty",
+      "agreement_rate": 0.58,
+      "agreement_ci": [
+        0.5299999999999999,
+        0.63
+      ],
+      "total_n": 72,
+      "sources": [
+        "professional_codes"
+      ],
+      "notes": "When mandatory?"
+    }
+  ],
+  "system_1_weight": 0.5641025641025641,
+  "system_2_weight": 0.4358974358974359,
+  "temporal_discount_curve": [
+    [
+      0.0,
+      1.0
+    ],
+    [
+      0.1,
+      0.95
+    ],
+    [
+      0.2,
+      0.9
+    ],
+    [
+      0.3,
+      0.82
+    ],
+    [
+      0.5,
+      0.65
+    ],
+    [
+      0.7,
+      0.45
+    ],
+    [
+      1.0,
+      0.25
+    ]
+  ],
+  "calibration_score": 0.11,
+  "cross_cultural_alignment": 0.72,
+  "internal_consistency": 0.85
+}

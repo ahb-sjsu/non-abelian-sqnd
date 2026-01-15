@@ -1,0 +1,507 @@
+[
+  {
+    "id": "perseus:aristotle:NE_1094a",
+    "source": "perseus",
+    "ref": "Aristotle, Nicomachean Ethics NE 1094a",
+    "title": "Nicomachean Ethics",
+    "text_original": "Every art and every inquiry, and similarly every action and pursuit, is thought to aim at some good; and for this reason the good has rightly been declared to be that at which all things aim.",
+    "text_english": "Every art and every inquiry, and similarly every action and pursuit, is thought to aim at some good; and for this reason the good has rightly been declared to be that at which all things aim.",
+    "language": "grc",
+    "category": "philosophy",
+    "subcategory": "virtue_ethics",
+    "date_composed": "350 BCE",
+    "metadata": {
+      "author": "Aristotle"
+    }
+  },
+  {
+    "id": "perseus:aristotle:NE_1106b",
+    "source": "perseus",
+    "ref": "Aristotle, Nicomachean Ethics NE 1106b",
+    "title": "Nicomachean Ethics",
+    "text_original": "Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by reason, and by that reason by which the man of practical wisdom would determine it.",
+    "text_english": "Virtue, then, is a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by reason, and by that reason by which the man of practical wisdom would determine it.",
+    "language": "grc",
+    "category": "philosophy",
+    "subcategory": "virtue_ethics",
+    "date_composed": "350 BCE",
+    "metadata": {
+      "author": "Aristotle"
+    }
+  },
+  {
+    "id": "perseus:aristotle:NE_1155a",
+    "source": "perseus",
+    "ref": "Aristotle, Nicomachean Ethics NE 1155a",
+    "title": "Nicomachean Ethics",
+    "text_original": "Without friends no one would choose to live, though he had all other goods.",
+    "text_english": "Without friends no one would choose to live, though he had all other goods.",
+    "language": "grc",
+    "category": "philosophy",
+    "subcategory": "friendship",
+    "date_composed": "350 BCE",
+    "metadata": {
+      "author": "Aristotle"
+    }
+  },
+  {
+    "id": "perseus:plato:Republic_331c",
+    "source": "perseus",
+    "ref": "Plato, Republic Republic 331c",
+    "title": "Republic",
+    "text_original": "Speaking the truth and paying back what one has received is not the definition of justice.",
+    "text_english": "Speaking the truth and paying back what one has received is not the definition of justice.",
+    "language": "grc",
+    "category": "philosophy",
+    "subcategory": "justice",
+    "date_composed": "380 BCE",
+    "metadata": {
+      "author": "Plato"
+    }
+  },
+  {
+    "id": "perseus:plato:Crito_49b-c",
+    "source": "perseus",
+    "ref": "Plato, Crito Crito 49b-c",
+    "title": "Crito",
+    "text_original": "We ought not to retaliate or render evil for evil to anyone, whatever evil we may have suffered from him.",
+    "text_english": "We ought not to retaliate or render evil for evil to anyone, whatever evil we may have suffered from him.",
+    "language": "grc",
+    "category": "philosophy",
+    "subcategory": "non_retaliation",
+    "date_composed": "380 BCE",
+    "metadata": {
+      "author": "Plato"
+    }
+  },
+  {
+    "id": "perseus:marcus aurelius:Meditations_2.1",
+    "source": "perseus",
+    "ref": "Marcus Aurelius, Meditations Meditations 2.1",
+    "title": "Meditations",
+    "text_original": "Begin the morning by saying to yourself: I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.",
+    "text_english": "Begin the morning by saying to yourself: I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.",
+    "language": "grc",
+    "category": "philosophy",
+    "subcategory": "stoic_ethics",
+    "date_composed": "170 CE",
+    "metadata": {
+      "author": "Marcus Aurelius"
+    }
+  },
+  {
+    "id": "perseus:epictetus:Enchiridion_1",
+    "source": "perseus",
+    "ref": "Epictetus, Enchiridion Enchiridion 1",
+    "title": "Enchiridion",
+    "text_original": "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions.",
+    "text_english": "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions.",
+    "language": "grc",
+    "category": "philosophy",
+    "subcategory": "stoic_ethics",
+    "date_composed": "100 CE",
+    "metadata": {
+      "author": "Epictetus"
+    }
+  },
+  {
+    "id": "perseus:seneca:Letters_47.1",
+    "source": "perseus",
+    "ref": "Seneca, Moral Letters Letters 47.1",
+    "title": "Moral Letters",
+    "text_original": "I am glad to learn that you live on friendly terms with your slaves. This befits a sensible and well-educated man like yourself. 'They are slaves,' people declare. Nay, rather they are men.",
+    "text_english": "I am glad to learn that you live on friendly terms with your slaves. This befits a sensible and well-educated man like yourself. 'They are slaves,' people declare. Nay, rather they are men.",
+    "language": "grc",
+    "category": "philosophy",
+    "subcategory": "equality",
+    "date_composed": "50 CE",
+    "metadata": {
+      "author": "Seneca"
+    }
+  },
+  {
+    "id": "digest:D.1.1.1pr",
+    "source": "justinian_digest",
+    "ref": "Digest D.1.1.1pr",
+    "title": "Digest - Ulpian",
+    "text_original": "Iuri operam daturum prius nosse oportet, unde nomen iuris descendat. est autem a iustitia appellatum: nam, ut eleganter Celsus definit, ius est ars boni et aequi.",
+    "text_english": "One who is going to study law ought first to know whence the word 'law' derives. It is called from 'justice'; for, as Celsus elegantly defines it, law is the art of the good and the fair.",
+    "language": "la",
+    "category": "legal",
+    "subcategory": "definition_of_law",
+    "date_composed": "533 CE (compiled from 100 BCE - 300 CE sources)",
+    "metadata": {
+      "jurist": "Ulpian",
+      "topic": "Definition of law"
+    }
+  },
+  {
+    "id": "digest:D.1.1.10pr",
+    "source": "justinian_digest",
+    "ref": "Digest D.1.1.10pr",
+    "title": "Digest - Ulpian",
+    "text_original": "Iustitia est constans et perpetua voluntas ius suum cuique tribuendi.",
+    "text_english": "Justice is the constant and perpetual will to render to each one his right.",
+    "language": "la",
+    "category": "legal",
+    "subcategory": "definition_of_justice",
+    "date_composed": "533 CE (compiled from 100 BCE - 300 CE sources)",
+    "metadata": {
+      "jurist": "Ulpian",
+      "topic": "Definition of justice"
+    }
+  },
+  {
+    "id": "digest:D.1.1.10.1",
+    "source": "justinian_digest",
+    "ref": "Digest D.1.1.10.1",
+    "title": "Digest - Ulpian",
+    "text_original": "Iuris praecepta sunt haec: honeste vivere, alterum non laedere, suum cuique tribuere.",
+    "text_english": "The precepts of the law are these: to live honestly, to harm no one, to give to each his own.",
+    "language": "la",
+    "category": "legal",
+    "subcategory": "three_precepts_of_law",
+    "date_composed": "533 CE (compiled from 100 BCE - 300 CE sources)",
+    "metadata": {
+      "jurist": "Ulpian",
+      "topic": "Three precepts of law"
+    }
+  },
+  {
+    "id": "digest:D.50.17.54",
+    "source": "justinian_digest",
+    "ref": "Digest D.50.17.54",
+    "title": "Digest - Gaius",
+    "text_original": "Nullus videtur dolo facere, qui suo iure utitur.",
+    "text_english": "No one is considered to act with malice who exercises his own right.",
+    "language": "la",
+    "category": "legal",
+    "subcategory": "exercise_of_rights",
+    "date_composed": "533 CE (compiled from 100 BCE - 300 CE sources)",
+    "metadata": {
+      "jurist": "Gaius",
+      "topic": "Exercise of rights"
+    }
+  },
+  {
+    "id": "digest:D.4.2.1",
+    "source": "justinian_digest",
+    "ref": "Digest D.4.2.1",
+    "title": "Digest - Ulpian",
+    "text_original": "Ait praetor: 'Quod metus causa gestum erit, ratum non habebo.'",
+    "text_english": "The praetor says: 'What has been done through fear, I will not uphold.'",
+    "language": "la",
+    "category": "legal",
+    "subcategory": "duress_nullifies",
+    "date_composed": "533 CE (compiled from 100 BCE - 300 CE sources)",
+    "metadata": {
+      "jurist": "Ulpian",
+      "topic": "Duress nullifies"
+    }
+  },
+  {
+    "id": "digest:D.4.3.1.2",
+    "source": "justinian_digest",
+    "ref": "Digest D.4.3.1.2",
+    "title": "Digest - Ulpian",
+    "text_original": "Dolum malum Servius quidem ita definiit machinationem quandam alterius decipiendi causa.",
+    "text_english": "Servius defines fraud as a kind of contrivance to deceive another.",
+    "language": "la",
+    "category": "legal",
+    "subcategory": "definition_of_fraud",
+    "date_composed": "533 CE (compiled from 100 BCE - 300 CE sources)",
+    "metadata": {
+      "jurist": "Ulpian",
+      "topic": "Definition of fraud"
+    }
+  },
+  {
+    "id": "digest:D.50.17.185",
+    "source": "justinian_digest",
+    "ref": "Digest D.50.17.185",
+    "title": "Digest - Celsus",
+    "text_original": "Impossibilium nulla obligatio est.",
+    "text_english": "There is no obligation to do the impossible.",
+    "language": "la",
+    "category": "legal",
+    "subcategory": "impossibility",
+    "date_composed": "533 CE (compiled from 100 BCE - 300 CE sources)",
+    "metadata": {
+      "jurist": "Celsus",
+      "topic": "Impossibility"
+    }
+  },
+  {
+    "id": "digest:D.2.14.1pr",
+    "source": "justinian_digest",
+    "ref": "Digest D.2.14.1pr",
+    "title": "Digest - Ulpian",
+    "text_original": "Huius edicti aequitas naturalis est.",
+    "text_english": "The equity of this edict is natural.",
+    "language": "la",
+    "category": "legal",
+    "subcategory": "natural_equity",
+    "date_composed": "533 CE (compiled from 100 BCE - 300 CE sources)",
+    "metadata": {
+      "jurist": "Ulpian",
+      "topic": "Natural equity"
+    }
+  },
+  {
+    "id": "digest:D.50.17.10",
+    "source": "justinian_digest",
+    "ref": "Digest D.50.17.10",
+    "title": "Digest - Ulpian",
+    "text_original": "Secundum naturam est commoda cuiusque rei eum sequi, quem sequentur incommoda.",
+    "text_english": "It is according to nature that the benefits of a thing should follow the one who bears the burdens.",
+    "language": "la",
+    "category": "legal",
+    "subcategory": "benefits_follow_burdens",
+    "date_composed": "533 CE (compiled from 100 BCE - 300 CE sources)",
+    "metadata": {
+      "jurist": "Ulpian",
+      "topic": "Benefits follow burdens"
+    }
+  },
+  {
+    "id": "digest:D.12.6.14",
+    "source": "justinian_digest",
+    "ref": "Digest D.12.6.14",
+    "title": "Digest - Pomponius",
+    "text_original": "Nam hoc natura aequum est neminem cum alterius detrimento fieri locupletiorem.",
+    "text_english": "For by nature it is equitable that no one should be enriched at another's expense.",
+    "language": "la",
+    "category": "legal",
+    "subcategory": "unjust_enrichment",
+    "date_composed": "533 CE (compiled from 100 BCE - 300 CE sources)",
+    "metadata": {
+      "jurist": "Pomponius",
+      "topic": "Unjust enrichment"
+    }
+  },
+  {
+    "id": "chinese:Analects_4:15",
+    "source": "chinese_text",
+    "ref": "Analects 4:15",
+    "title": "Analects",
+    "text_original": "子曰：「參乎！吾道一以貫之。」曾子曰：「唯。」子出，門人問曰：「何謂也？」曾子曰：「夫子之道，忠恕而已矣。」",
+    "text_english": "The Master said, 'Shen, my doctrine is connected by one thread.' Zengzi said, 'Yes.' When the Master went out, the disciples asked, 'What did he mean?' Zengzi said, 'The doctrine of our master is loyalty and reciprocity (shu), that is all.'",
+    "language": "zh",
+    "category": "philosophy",
+    "subcategory": "confucianism",
+    "date_composed": "500-200 BCE",
+    "metadata": {
+      "note": "Golden Rule formulation"
+    }
+  },
+  {
+    "id": "chinese:Analects_12:2",
+    "source": "chinese_text",
+    "ref": "Analects 12:2",
+    "title": "Analects",
+    "text_original": "仲弓問仁。子曰：「出門如見大賓，使民如承大祭。己所不欲，勿施於人。在邦無怨，在家無怨。」",
+    "text_english": "Zhonggong asked about benevolence. The Master said, 'When going abroad, behave as if receiving a great guest. When employing people, act as if conducting a great sacrifice. What you do not wish for yourself, do not impose on others.'",
+    "language": "zh",
+    "category": "philosophy",
+    "subcategory": "confucianism",
+    "date_composed": "500-200 BCE",
+    "metadata": {
+      "note": "Negative Golden Rule"
+    }
+  },
+  {
+    "id": "chinese:Analects_15:24",
+    "source": "chinese_text",
+    "ref": "Analects 15:24",
+    "title": "Analects",
+    "text_original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "text_english": "Zigong asked, 'Is there one word that can guide a person throughout life?' The Master said, 'How about reciprocity (shu)? What you do not wish for yourself, do not impose on others.'",
+    "language": "zh",
+    "category": "philosophy",
+    "subcategory": "confucianism",
+    "date_composed": "500-200 BCE",
+    "metadata": {
+      "note": "Shu (reciprocity) principle"
+    }
+  },
+  {
+    "id": "chinese:Mencius_7A:4",
+    "source": "chinese_text",
+    "ref": "Mencius 7A:4",
+    "title": "Mencius",
+    "text_original": "孟子曰：「萬物皆備於我矣。反身而誠，樂莫大焉。強恕而行，求仁莫近焉。」",
+    "text_english": "Mencius said, 'All things are complete in us. There is no greater joy than to find sincerity in self-examination. If one acts with conscientiousness and reciprocity, they are not far from benevolence.'",
+    "language": "zh",
+    "category": "philosophy",
+    "subcategory": "confucianism",
+    "date_composed": "500-200 BCE",
+    "metadata": {
+      "note": "Innate moral capacity"
+    }
+  },
+  {
+    "id": "chinese:Tao_Te_Ching_63",
+    "source": "chinese_text",
+    "ref": "Tao Te Ching 63",
+    "title": "Tao Te Ching",
+    "text_original": "為無為，事無事，味無味。大小多少，報怨以德。",
+    "text_english": "Act without action, work without work, taste the tasteless. Regard the small as large, the few as many. Repay injury with kindness.",
+    "language": "zh",
+    "category": "philosophy",
+    "subcategory": "taoism",
+    "date_composed": "500-200 BCE",
+    "metadata": {
+      "note": "Return virtue for injury"
+    }
+  },
+  {
+    "id": "buddhist:AN_8.39",
+    "source": "suttacentral",
+    "ref": "AN 8.39",
+    "title": "Abhisanda Sutta",
+    "text_original": "Pāṇātipātā veramaṇī sikkhāpadaṃ samādiyāmi",
+    "text_english": "I undertake the training rule to abstain from taking life. I undertake the training rule to abstain from taking what is not given. I undertake the training rule to abstain from sexual misconduct. I undertake the training rule to abstain from false speech. I undertake the training rule to abstain from intoxicants.",
+    "language": "pi",
+    "category": "buddhist_ethics",
+    "subcategory": "Five Precepts",
+    "date_composed": "500-200 BCE",
+    "metadata": {
+      "note": "Five Precepts"
+    }
+  },
+  {
+    "id": "buddhist:SN_55.7",
+    "source": "suttacentral",
+    "ref": "SN 55.7",
+    "title": "Veludvareyya Sutta",
+    "text_original": "Attānaṃ upamaṃ katvā, na haneyya na ghātaye",
+    "text_english": "Comparing oneself to others, one should neither kill nor cause others to kill. All beings tremble before violence. All fear death. Seeing oneself in others, one should neither kill nor cause killing.",
+    "language": "pi",
+    "category": "buddhist_ethics",
+    "subcategory": "Buddhist Golden Rule",
+    "date_composed": "500-200 BCE",
+    "metadata": {
+      "note": "Buddhist Golden Rule"
+    }
+  },
+  {
+    "id": "buddhist:Dhp_1-2",
+    "source": "suttacentral",
+    "ref": "Dhp 1-2",
+    "title": "Dhammapada",
+    "text_original": "Manopubbaṅgamā dhammā manoseṭṭhā manomayā",
+    "text_english": "Mind is the forerunner of all actions. All deeds are led by mind, created by mind. If one speaks or acts with a corrupt mind, suffering follows as the wheel follows the hoof of the ox.",
+    "language": "pi",
+    "category": "buddhist_ethics",
+    "subcategory": "Mind and action",
+    "date_composed": "500-200 BCE",
+    "metadata": {
+      "note": "Mind and action"
+    }
+  },
+  {
+    "id": "buddhist:Dhp_129-130",
+    "source": "suttacentral",
+    "ref": "Dhp 129-130",
+    "title": "Dhammapada",
+    "text_original": "Sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno",
+    "text_english": "All tremble at punishment; all fear death. Comparing oneself with others, one should neither kill nor cause killing. All tremble at punishment; to all, life is dear. Comparing oneself with others, one should neither kill nor cause killing.",
+    "language": "pi",
+    "category": "buddhist_ethics",
+    "subcategory": "Universal compassion",
+    "date_composed": "500-200 BCE",
+    "metadata": {
+      "note": "Universal compassion"
+    }
+  },
+  {
+    "id": "buddhist:DN_31",
+    "source": "suttacentral",
+    "ref": "DN 31",
+    "title": "Sigalovada Sutta",
+    "text_original": "",
+    "text_english": "There are these four ways of showing love: by gifts, kind words, helpful actions, and treating others as oneself. These four ways of showing love sustain the world like the axle of a rolling chariot.",
+    "language": "pi",
+    "category": "buddhist_ethics",
+    "subcategory": "Lay ethics",
+    "date_composed": "500-200 BCE",
+    "metadata": {
+      "note": "Lay ethics"
+    }
+  },
+  {
+    "id": "upanishad:Isha_Upanishad_1",
+    "source": "upanishads",
+    "ref": "Isha Upanishad 1",
+    "title": "Isha Upanishad",
+    "text_original": "ईशावास्यमिदं सर्वं यत्किञ्च जगत्यां जगत्",
+    "text_english": "All this, whatever moves in this moving world, is pervaded by the Lord. Therefore find your enjoyment in renunciation; do not covet what belongs to others.",
+    "language": "sa",
+    "category": "scripture",
+    "subcategory": "upanishad",
+    "date_composed": "800-200 BCE",
+    "metadata": {
+      "note": "Non-attachment and divine ownership"
+    }
+  },
+  {
+    "id": "upanishad:Brihadaranyaka_1.4.14",
+    "source": "upanishads",
+    "ref": "Brihadaranyaka 1.4.14",
+    "title": "Brihadaranyaka Upanishad",
+    "text_original": "आत्मानं चेद्विजानीयात्",
+    "text_english": "If one knows the Self, with 'I am Brahman', becoming everything, even the gods cannot prevent him, for he becomes their Self.",
+    "language": "sa",
+    "category": "scripture",
+    "subcategory": "upanishad",
+    "date_composed": "800-200 BCE",
+    "metadata": {
+      "note": "Self-realization"
+    }
+  },
+  {
+    "id": "upanishad:Chandogya_6.8.7",
+    "source": "upanishads",
+    "ref": "Chandogya 6.8.7",
+    "title": "Chandogya Upanishad",
+    "text_original": "तत्त्वमसि",
+    "text_english": "That thou art. You are that ultimate reality, that Brahman.",
+    "language": "sa",
+    "category": "scripture",
+    "subcategory": "upanishad",
+    "date_composed": "800-200 BCE",
+    "metadata": {
+      "note": "Tat Tvam Asi - identity of self and ultimate"
+    }
+  },
+  {
+    "id": "upanishad:Katha_1.2.23",
+    "source": "upanishads",
+    "ref": "Katha 1.2.23",
+    "title": "Katha Upanishad",
+    "text_original": "नायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन",
+    "text_english": "This Self cannot be attained by study, nor by intellect, nor by much learning. It is gained only by one whom It chooses.",
+    "language": "sa",
+    "category": "scripture",
+    "subcategory": "upanishad",
+    "date_composed": "800-200 BCE",
+    "metadata": {
+      "note": "Grace and self-effort"
+    }
+  },
+  {
+    "id": "upanishad:Mundaka_3.1.6",
+    "source": "upanishads",
+    "ref": "Mundaka 3.1.6",
+    "title": "Mundaka Upanishad",
+    "text_original": "सत्यमेव जयते",
+    "text_english": "Truth alone triumphs, not falsehood. By truth is laid out the path leading to the gods.",
+    "language": "sa",
+    "category": "scripture",
+    "subcategory": "upanishad",
+    "date_composed": "800-200 BCE",
+    "metadata": {
+      "note": "Satyameva Jayate - truth prevails"
+    }
+  }
+]

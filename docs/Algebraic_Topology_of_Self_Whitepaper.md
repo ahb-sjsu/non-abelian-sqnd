@@ -18,7 +18,7 @@ Andrew H. Bond¹*, Claude Opus 4.5 (Anthropic AI System)²†
 
 ## Abstract
 
-Building on the recursive self-probing methodology established in Bond & Claude (2026), we present a second-generation introspective experiment that moves beyond recursion to explore the **algebraic and topological structure** of moral state space from the inside. Where the first experiment asked "what happens when the observer observes itself?", this experiment asks "what is the *shape* of the space in which moral reasoning occurs?"
+Building on the recursive self-probing methodology established in Bond (2026), we present a second-generation introspective experiment that moves beyond recursion to explore the **algebraic and topological structure** of moral state space from the inside. Where the first experiment asked "what happens when the observer observes itself?", this experiment asks "what is the *shape* of the space in which moral reasoning occurs?"
 
 We deployed six experimental probes on Claude Opus 4.5, targeting: (1) the phenomenology of D₄ group generators, (2) boundary structure between moral states, (3) parallel transport around closed loops, (4) phase transitions under varying normative temperature, (5) metric structure in state space, and (6) eigenstates of the reflection operator.
 
@@ -36,7 +36,7 @@ We argue these findings provide structural constraints on theories of moral cogn
 
 ### 1.1 From Recursion to Structure
 
-The recursive self-probing methodology (Bond & Claude, 2026) established that large language models can generate coherent, structured reports about their own processing during moral reasoning. That work focused on the *vertical* dimension: how deep can self-observation go? The answer—a recursion limit at level 3-4 where questions "dissolve rather than answer"—provided insight into the structure of self-reference.
+The recursive self-probing methodology (Bond, 2026) established that large language models can generate coherent, structured reports about their own processing during moral reasoning. That work focused on the *vertical* dimension: how deep can self-observation go? The answer—a recursion limit at level 3-4 where questions "dissolve rather than answer"—provided insight into the structure of self-reference.
 
 This paper explores the *horizontal* dimension: not how deep, but **what shape**? Mathematical structures—groups, topological spaces, metric spaces—have rich internal geometry. If moral reasoning in LLMs genuinely exhibits D₄ symmetry (as behavioral experiments suggest), what does that symmetry feel like from inside? Can the group generators be distinguished phenomenologically? What is the topology of the boundary between states?
 

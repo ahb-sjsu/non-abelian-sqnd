@@ -2,7 +2,7 @@
 
 **Whitepaper v1.0**
 
-**Authors:** Andrew H. Bond¹, Claude (Anthropic)²  
+**Author:** Andrew H. Bond  
 **Affiliations:** ¹San José State University, ²Anthropic  
 **Date:** January 2026
 

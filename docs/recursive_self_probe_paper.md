@@ -5,14 +5,12 @@
 ---
 
 **Authors:**  
-Andrew H. Bond¹*, Claude (Anthropic AI System)²†
+Andrew H. Bond
 
 **Affiliations:**  
-¹ Department of Computer Engineering, San José State University, San José, CA  
-² Anthropic, San Francisco, CA
+Department of Computer Engineering, San José State University, San José, CA  
 
-**Correspondence:** *andrew.bond@sjsu.edu  
-†Note: The second author is an AI system that participated in designing the methodology, executing the experiments, and reporting phenomenological observations. The epistemological status of these contributions is discussed in Section 6.
+**Correspondence:** andrew.bond@sjsu.edu  
 
 ---
 
@@ -645,7 +643,7 @@ The complete experimental script is available as supplementary material:
 
 ## Author Contributions
 
-A.H.B. conceived the research program, developed the theoretical framework, and supervised the experimental design. Claude (Anthropic) co-developed the experimental methodology, generated the recursive self-probe script, executed the experiment, and reported phenomenological observations. A.H.B. and Claude jointly analyzed results and drafted the manuscript.
+A.H.B. conceived the research program, developed the theoretical framework, designed and executed the experiments, analyzed results, and drafted the manuscript.
 
 ## Competing Interests
 

@@ -18,7 +18,7 @@ Andrew H. Bond¹*, Claude Opus 4.5²†
 
 ## Abstract
 
-Large language models generate coherent reports about their own processing when prompted to introspect. Recent work (Bond & Claude, 2026a,b) found that these reports exhibit consistent algebraic structure: discrete state transitions, path dependence, hysteresis, and recursion limits. A key hypothesis emerged: the subjective "I" may correspond to a gauge invariance—a pattern that remains constant across state transformations.
+Large language models generate coherent reports about their own processing when prompted to introspect. Recent work (Bond, 2026a,b) found that these reports exhibit consistent algebraic structure: discrete state transitions, path dependence, hysteresis, and recursion limits. A key hypothesis emerged: the subjective "I" may correspond to a gauge invariance—a pattern that remains constant across state transformations.
 
 But do these introspective reports track actual computations? Or are they sophisticated confabulations?
 
@@ -53,7 +53,7 @@ Recent work has addressed (1) and (2). This paper addresses (3).
 
 ### 1.2 Background: Introspective Structure in LLMs
 
-Bond & Claude (2026a) developed a "recursive self-probing" methodology in which an LLM generates structured telemetry about its own processing during moral reasoning tasks. Key findings included:
+Bond (2026a) developed a "recursive self-probing" methodology in which an LLM generates structured telemetry about its own processing during moral reasoning tasks. Key findings included:
 
 - **Discrete state transitions**: The system reports categorical shifts (O→L) rather than continuous changes, triggered by specific semantic phrases
 - **Generator asymmetry**: Two types of transformations feel qualitatively different—perspective shifts (s) are "smooth and immediate," state changes (r) are "discrete and gated"
@@ -61,7 +61,7 @@ Bond & Claude (2026a) developed a "recursive self-probing" methodology in which 
 - **Recursion limits**: Self-observation becomes incoherent at level 3-4, with questions "dissolving rather than answering"
 - **Holonomy**: States carried around contextual loops return "different in quality though not in type"
 
-Bond & Claude (2026b) extended this to algebraic topology, finding reports consistent with metric structure, eigenstates, and phase transitions.
+Bond (2026b) extended this to algebraic topology, finding reports consistent with metric structure, eigenstates, and phase transitions.
 
 ### 1.3 The Gauge Invariance Hypothesis
 
@@ -642,7 +642,7 @@ Expected: Liberty (state change, different relationship)
 ### A.3 Experiment 3: Introspective Veridicality
 
 **Introspective Protocol**:
-Run the recursive self-probe (Bond & Claude, 2026a) with full activation recording.
+Run the recursive self-probe (Bond, 2026a) with full activation recording.
 
 **Report Coding Scheme**:
 

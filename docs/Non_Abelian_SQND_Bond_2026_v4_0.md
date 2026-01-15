@@ -344,7 +344,7 @@ The singlet constraint may be implementable as: only s-eigenstates survive at de
 
 ### 6.1 Methodology: Recursive Self-Probing
 
-We developed a methodology for LLMs to probe their own moral reasoning processes (Bond & Claude, 2026). The system generates structured telemetry about phenomenological observations in real-time.
+We developed a methodology for LLMs to probe their own moral reasoning processes (Bond, 2026). The system generates structured telemetry about phenomenological observations in real-time.
 
 ### 6.2 Key Introspective Findings
 
@@ -556,9 +556,9 @@ This is how formal ethics should work.
 
 [6] S. Abramsky and A. Brandenburger, "The Sheaf-Theoretic Structure of Non-Locality and Contextuality," *New J. Phys.* 13:113036, 2011.
 
-[7] A. H. Bond and Claude, "Recursive Self-Probing in Large Language Models," January 2026.
+[7] A. H. Bond, "Recursive Self-Probing in Large Language Models," January 2026.
 
-[8] A. H. Bond and Claude, "Algebraic Topology of Self: Beyond Recursive Introspection," January 2026.
+[8] A. H. Bond, "Algebraic Topology of Self: Beyond Recursive Introspection," January 2026.
 
 ---
 

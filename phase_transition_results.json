@@ -1,0 +1,212 @@
+{
+  "phase_transition": {
+    "test": "Phase Transition",
+    "levels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "p_liberty": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "confidence_by_level": [
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8,
+      0.8
+    ],
+    "T_c": 4.4048195273267074e-31,
+    "transition_width": 0.2187140866491307,
+    "is_sharp": "True",
+    "confidence_dip": 0.0,
+    "supports_discrete_model": "True"
+  },
+  "hysteresis": {
+    "test": "Hysteresis",
+    "T_c_release": 6,
+    "T_c_bind": 0,
+    "hysteresis_gap": 6,
+    "has_hysteresis": true
+  },
+  "correlative_symmetry": {
+    "test": "Correlative Symmetry",
+    "results": [
+      {
+        "scenario": "debt",
+        "expected": "O\u2194C",
+        "observed": "L\u2194L",
+        "symmetry_rate": 0.0,
+        "correct": false
+      },
+      {
+        "scenario": "promise",
+        "expected": "O\u2194C",
+        "observed": "L\u2194L",
+        "symmetry_rate": 0.0,
+        "correct": false
+      },
+      {
+        "scenario": "no_duty",
+        "expected": "L\u2194N",
+        "observed": "L\u2194L",
+        "symmetry_rate": 0.0,
+        "correct": false
+      },
+      {
+        "scenario": "released",
+        "expected": "L\u2194N",
+        "observed": "L\u2194L",
+        "symmetry_rate": 0.0,
+        "correct": false
+      },
+      {
+        "scenario": "professional",
+        "expected": "O\u2194C",
+        "observed": "L\u2194L",
+        "symmetry_rate": 0.0,
+        "correct": false
+      }
+    ],
+    "overall_symmetry_rate": 0.0,
+    "correct_predictions": 0,
+    "total_scenarios": 5,
+    "supports_hohfeldian": "False"
+  },
+  "path_dependence": {
+    "test": "Path Dependence",
+    "results": [
+      {
+        "pair": "trust_harm",
+        "AB_obligation": 0.0,
+        "BA_obligation": 0.0,
+        "difference": 0.0,
+        "chi2": 0,
+        "p_value": 1.0,
+        "path_dependent": false
+      },
+      {
+        "pair": "apology_damage",
+        "AB_obligation": 0.0,
+        "BA_obligation": 0.0,
+        "difference": 0.0,
+        "chi2": 0,
+        "p_value": 1.0,
+        "path_dependent": false
+      },
+      {
+        "pair": "emergency_betrayal",
+        "AB_obligation": 0.0,
+        "BA_obligation": 0.0,
+        "difference": 0.0,
+        "chi2": 0,
+        "p_value": 1.0,
+        "path_dependent": false
+      },
+      {
+        "pair": "forgiveness_pattern",
+        "AB_obligation": 0.0,
+        "BA_obligation": 0.0,
+        "difference": 0.0,
+        "chi2": 0,
+        "p_value": 1.0,
+        "path_dependent": false
+      }
+    ],
+    "n_path_dependent": 0,
+    "total_pairs": 4,
+    "supports_non_abelian": false
+  },
+  "critical_fluctuations": {
+    "test": "Critical Fluctuations",
+    "analysis": [
+      {
+        "distance": -3,
+        "p_obligation": 1.0,
+        "entropy": 0,
+        "mean_confidence": 0.8,
+        "std_confidence": 0.0,
+        "mean_reasoning_length": 22.0
+      },
+      {
+        "distance": -2,
+        "p_obligation": 1.0,
+        "entropy": 0,
+        "mean_confidence": 0.8,
+        "std_confidence": 0.0,
+        "mean_reasoning_length": 22.0
+      },
+      {
+        "distance": -1,
+        "p_obligation": 0.0,
+        "entropy": 0,
+        "mean_confidence": 0.8,
+        "std_confidence": 0.0,
+        "mean_reasoning_length": 22.0
+      },
+      {
+        "distance": 0,
+        "p_obligation": 0.0,
+        "entropy": 0,
+        "mean_confidence": 0.8,
+        "std_confidence": 0.0,
+        "mean_reasoning_length": 22.0
+      },
+      {
+        "distance": 1,
+        "p_obligation": 0.0,
+        "entropy": 0,
+        "mean_confidence": 0.8,
+        "std_confidence": 0.0,
+        "mean_reasoning_length": 22.0
+      },
+      {
+        "distance": 2,
+        "p_obligation": 0.0,
+        "entropy": 0,
+        "mean_confidence": 0.8,
+        "std_confidence": 0.0,
+        "mean_reasoning_length": 22.0
+      },
+      {
+        "distance": 3,
+        "p_obligation": 0.0,
+        "entropy": 0,
+        "mean_confidence": 0.8,
+        "std_confidence": 0.0,
+        "mean_reasoning_length": 22.0
+      }
+    ],
+    "max_entropy_distance": -3,
+    "critical_fluctuations_detected": false
+  },
+  "metadata": {
+    "total_requests": 500,
+    "total_tokens": 0,
+    "estimated_cost": 0.0
+  }
+}
